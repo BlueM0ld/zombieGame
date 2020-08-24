@@ -1,0 +1,5 @@
+_________________________________________________________________________
+|                                                                         |
+| Type "Surrender" to exit the game                                       |
+| Type "check inventory" to see items that you've collected along the way |
+|_________________________________________________________________________|

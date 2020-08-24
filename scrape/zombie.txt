@@ -1,0 +1,1629 @@
+"";"id_origin";"title";"txt";"id_choix";"txt_choix";"ouvert";"active"
+"1";"1";"Preface";"Dead Man Walking! (Zombie Survival)
+
+Can you survive the Zombie Apocalypse? While challenging, it's not as hard as the movies would have you believe - where they always make the worst possible decisions for the sake of drama. Here, at least, you will be offered logical choices amid the foolhardy and your character cares about survival even more than you do. A serious game with gory detail.
+
+
+Style
+
+There is a lot of reading in this story. Pages are filled with lengthy descriptions of who, what, when, where, why, & how. The story is quite long (over 2100 pages) and comes in three major sections (of varying length, depending on what you choose to do in them). Don’t forget your 'Save Game' option...
+
+
+Sections
+
+The first section is the shortest and involves escaping the subway tunnels.
+
+The second section involves moving around within the city and escaping.
+
+The third section involves moving through the suburbs to find and save your family.
+
+
+Objective
+
+Get the best ending (or) Get the highest score (or) Kill the most zombies (or) All of the above?
+
+
+Scoring
+
+Each choice is assigned a value from 10 - 50 points: Generally, 10 points are given for a bad decisions, 30 points for neutral decisions, and 50 points for the most logical choices. 20 & 40 points are also awarded, when certain choices fall between the other values. Your final Score at the end of the game is the total of all the decisions made, multiplied by a number of special factors (depending on what you accomplish during play).
+
+Note that the highest possible score will not be achieved by making all the right choices - as making the best choices often allow you to bypass certain other 'choice-filled' events, that will net you more points in the long run (if survived) than by simply skipping them altogether in the first place.
+
+
+Endings
+
+As this is a zombie game, the very best ending can only be achieved by not getting bit at all, but there are still a number of interesting endings available, even if you do get chomped on a time or two. In fact, you are not likely to get the Highest Score with the very best ending - but that's the trade-off.
+
+With each 'Death Page' and the 'Official Endings', you will have the chance to see how you did before quitting (or going back). A Rundown is included that shows how many zombies and/or people you killed, how many people you saved, how many zombies munched your brains, and of course your Total Score. If at the end of your game you have 10,000 or more points, you will also be able to see a write-up of the Zombie Virus and Zombie Types used during the game.
+
+The type of ending you achieve will also be reflected in the last digit of your Final Score: Death Pages will produce a score ending in '0'; Official Endings will show a '5'; and the Very Best Ending will show a '7'.
+
+Post a comment to show your high scores to the world!
+
+
+Troubleshooting
+
+Please PM me if you find bugs or breaks in logic (such as walking on foot in one scene, then riding a mountain bike in the next, without ever having found the mountain bike first). The most helpful thing you could do is tell me the name of the page with the bug (and) the name of the page you came into that page from, plus a description of what’s not working correctly.
+
+
+Good Luck!
+
+
+This game dedicated to my lovely LadyZerka (and Five Hundred Feet of Heavy Rope in a Barrel)   =)";"11";"Begin...";"non";0
+"2";"11";"Awake";"Dead Man Walking.
+
+
+You are drifting through darkness, floating weightless in an inky black void. Slowly you realize you are not quite awake, but coming out of unconsciousness; you must have passed out for some reason. You try to sit up, but some unseen force holds your body down. With a note of frustration you realize again that you are still not fully awake. Focusing your will you try to start yourself awake, and for a moment it seems to work – you sit up and look around and can see that you are in a dark tunnel with very little light. You notice a man stooped over some object to your right and try to call out to him, but your voice does not work. Regardless, the man turns to look at you and it is then that you see it is not a man at all, but a smoky silhouette of shadow in vaguely a man-like shape. The thing sets upon you in a flash and you feel a smothering presence overpowering you in the darkness, wrapping you up, holding you down; trying to invade you. In panic you jolt awake – this time for real.
+
+
+The first thing you notice is a sharp stabbing pain in your head. Reaching up, you feel your hair matted in blood and grimace as you run your fingers over the jagged edges of what must surely be a serious head wound. Part of your scalp has actually been torn free of your skull and hangs in a greasy mess over your ear. You’re not bleeding from the wound very much – it seems to have clotted – but you definitely should get it seen by a medical professional sooner than later…
+
+
+In addition, your left arm, shoulder, and side are numb. Moving them slightly, you wince at small twinges of pain here and there, but are relieved to see that they are not broken – though it does seem that you have been thrown down on that side recently and with significant force.
+
+
+Sitting yourself up against a wall of cool damp stone you take in your surroundings. The floor is of hard packed dirt with a thick layer of dust on top and (from what you can feel), quite a bit of shattered safety glass lays around you. In the air you smell a mix of smoke and ozone, like when an electrical outlet shorts out. That and the heavy stink of blood (your own maybe, you do seem to have lost quite a bit) and something reminiscent of burning hair… All in all, it’s somewhat hard to breathe, as if you’re not quite getting enough oxygen with each breath.
+
+
+It is very dark, but a dim greenish glow stemming from a huge mass of twisted metal before you gives enough illumination to at least make out your hand in front of your face, as well as what’s immediately around you. Looking at the mass in front of you, you can see that it is the wreckage of a subway train – or perhaps even two trains – as if one had run up into another on the same track. Now however, the subway cars choke the dark tunnel you are in, cast zigzag across the tracks in a crumpled and jagged pile of wreckage. The greenish glow comes from inside the smashed train cars themselves and you surmise that it would be illumination form the emergency exits.
+
+
+Looking to your right, you see a mangled body without a head. You shudder and wonder what it was you saw standing over that body in your half-conscious dream state.
+
+
+Thinking back, you try to remember how you could have arrived in such a predicament, but you can’t get past the pain in your head. Your memory is all cloudy. How much of it have you lost? All of it apparently; you can’t even recall your own name. Looking yourself over for a clue to your own identity, you note that you are wearing reasonably savvy business attire with a gold watch. Unfortunately, the watch is broken, its face smashed and the hands stopped at 7:40 am.
+
+
+Checking your back pocket you find your wallet and upon looking inside, you find your license.
+
+
+“Greg Bradley”, you say to yourself, reading the name off the ID. The address shows a street in the suburbs. There’s also a photo of the wife and kids (you guess). The woman is pretty enough and there are two cute girls – a ten year old and a younger one, maybe seven.
+
+
+A twinge of frustration creeps into your mind. Why can’t you remember anything? Isn’t seeing things like this supposed to jar a memory or something? You take the photo out of the wallet and tuck it into your breast pocket. Checking the rest of the contents, you find a number of low-end credit cards, $50 cash, and a half dozen of your own business cards; showing that you are an accountant for the Morgan Corporation, located on the 24th floor of the Summit Tower.
+
+
+Also in your possession is a crushed cell phone (totally dead) and a ring of keys including the key and fob to a Toyota, a house key, a PO Box key, a padlock key, and what you think is an elevator key marked ‘ST 24’. Incidentally, your key chain also includes a small LED penlight – which upon testing in the darkness of the tunnel, seems to offer miniscule comfort against the engulfing blackness.
+
+
+It occurs to you that you should probably find something to bandage your head with. You consider for a moment trying to use your shirt as a makeshift bandage. It seems to work in the movies.
+
+
+It is then that you hear the rattle of movement from within the pile of train wreckage before you, followed by a long mournful sounding groan. Instinctively, you quickly turn off your penlight and remain still; waiting to see what is making the noise without yet revealing your presence. You don’t hear the sound again and wonder if some injured person is trapped there in the twisted subway cars, waiting for you to make the first move…";"111";"Wait quietly for help to arrive";"oui";0
+"3";"11";"Awake";"Dead Man Walking.
+
+
+You are drifting through darkness, floating weightless in an inky black void. Slowly you realize you are not quite awake, but coming out of unconsciousness; you must have passed out for some reason. You try to sit up, but some unseen force holds your body down. With a note of frustration you realize again that you are still not fully awake. Focusing your will you try to start yourself awake, and for a moment it seems to work – you sit up and look around and can see that you are in a dark tunnel with very little light. You notice a man stooped over some object to your right and try to call out to him, but your voice does not work. Regardless, the man turns to look at you and it is then that you see it is not a man at all, but a smoky silhouette of shadow in vaguely a man-like shape. The thing sets upon you in a flash and you feel a smothering presence overpowering you in the darkness, wrapping you up, holding you down; trying to invade you. In panic you jolt awake – this time for real.
+
+
+The first thing you notice is a sharp stabbing pain in your head. Reaching up, you feel your hair matted in blood and grimace as you run your fingers over the jagged edges of what must surely be a serious head wound. Part of your scalp has actually been torn free of your skull and hangs in a greasy mess over your ear. You’re not bleeding from the wound very much – it seems to have clotted – but you definitely should get it seen by a medical professional sooner than later…
+
+
+In addition, your left arm, shoulder, and side are numb. Moving them slightly, you wince at small twinges of pain here and there, but are relieved to see that they are not broken – though it does seem that you have been thrown down on that side recently and with significant force.
+
+
+Sitting yourself up against a wall of cool damp stone you take in your surroundings. The floor is of hard packed dirt with a thick layer of dust on top and (from what you can feel), quite a bit of shattered safety glass lays around you. In the air you smell a mix of smoke and ozone, like when an electrical outlet shorts out. That and the heavy stink of blood (your own maybe, you do seem to have lost quite a bit) and something reminiscent of burning hair… All in all, it’s somewhat hard to breathe, as if you’re not quite getting enough oxygen with each breath.
+
+
+It is very dark, but a dim greenish glow stemming from a huge mass of twisted metal before you gives enough illumination to at least make out your hand in front of your face, as well as what’s immediately around you. Looking at the mass in front of you, you can see that it is the wreckage of a subway train – or perhaps even two trains – as if one had run up into another on the same track. Now however, the subway cars choke the dark tunnel you are in, cast zigzag across the tracks in a crumpled and jagged pile of wreckage. The greenish glow comes from inside the smashed train cars themselves and you surmise that it would be illumination form the emergency exits.
+
+
+Looking to your right, you see a mangled body without a head. You shudder and wonder what it was you saw standing over that body in your half-conscious dream state.
+
+
+Thinking back, you try to remember how you could have arrived in such a predicament, but you can’t get past the pain in your head. Your memory is all cloudy. How much of it have you lost? All of it apparently; you can’t even recall your own name. Looking yourself over for a clue to your own identity, you note that you are wearing reasonably savvy business attire with a gold watch. Unfortunately, the watch is broken, its face smashed and the hands stopped at 7:40 am.
+
+
+Checking your back pocket you find your wallet and upon looking inside, you find your license.
+
+
+“Greg Bradley”, you say to yourself, reading the name off the ID. The address shows a street in the suburbs. There’s also a photo of the wife and kids (you guess). The woman is pretty enough and there are two cute girls – a ten year old and a younger one, maybe seven.
+
+
+A twinge of frustration creeps into your mind. Why can’t you remember anything? Isn’t seeing things like this supposed to jar a memory or something? You take the photo out of the wallet and tuck it into your breast pocket. Checking the rest of the contents, you find a number of low-end credit cards, $50 cash, and a half dozen of your own business cards; showing that you are an accountant for the Morgan Corporation, located on the 24th floor of the Summit Tower.
+
+
+Also in your possession is a crushed cell phone (totally dead) and a ring of keys including the key and fob to a Toyota, a house key, a PO Box key, a padlock key, and what you think is an elevator key marked ‘ST 24’. Incidentally, your key chain also includes a small LED penlight – which upon testing in the darkness of the tunnel, seems to offer miniscule comfort against the engulfing blackness.
+
+
+It occurs to you that you should probably find something to bandage your head with. You consider for a moment trying to use your shirt as a makeshift bandage. It seems to work in the movies.
+
+
+It is then that you hear the rattle of movement from within the pile of train wreckage before you, followed by a long mournful sounding groan. Instinctively, you quickly turn off your penlight and remain still; waiting to see what is making the noise without yet revealing your presence. You don’t hear the sound again and wonder if some injured person is trapped there in the twisted subway cars, waiting for you to make the first move…";"112";"Bind your head with cloth from your shirt";"oui";0
+"4";"11";"Awake";"Dead Man Walking.
+
+
+You are drifting through darkness, floating weightless in an inky black void. Slowly you realize you are not quite awake, but coming out of unconsciousness; you must have passed out for some reason. You try to sit up, but some unseen force holds your body down. With a note of frustration you realize again that you are still not fully awake. Focusing your will you try to start yourself awake, and for a moment it seems to work – you sit up and look around and can see that you are in a dark tunnel with very little light. You notice a man stooped over some object to your right and try to call out to him, but your voice does not work. Regardless, the man turns to look at you and it is then that you see it is not a man at all, but a smoky silhouette of shadow in vaguely a man-like shape. The thing sets upon you in a flash and you feel a smothering presence overpowering you in the darkness, wrapping you up, holding you down; trying to invade you. In panic you jolt awake – this time for real.
+
+
+The first thing you notice is a sharp stabbing pain in your head. Reaching up, you feel your hair matted in blood and grimace as you run your fingers over the jagged edges of what must surely be a serious head wound. Part of your scalp has actually been torn free of your skull and hangs in a greasy mess over your ear. You’re not bleeding from the wound very much – it seems to have clotted – but you definitely should get it seen by a medical professional sooner than later…
+
+
+In addition, your left arm, shoulder, and side are numb. Moving them slightly, you wince at small twinges of pain here and there, but are relieved to see that they are not broken – though it does seem that you have been thrown down on that side recently and with significant force.
+
+
+Sitting yourself up against a wall of cool damp stone you take in your surroundings. The floor is of hard packed dirt with a thick layer of dust on top and (from what you can feel), quite a bit of shattered safety glass lays around you. In the air you smell a mix of smoke and ozone, like when an electrical outlet shorts out. That and the heavy stink of blood (your own maybe, you do seem to have lost quite a bit) and something reminiscent of burning hair… All in all, it’s somewhat hard to breathe, as if you’re not quite getting enough oxygen with each breath.
+
+
+It is very dark, but a dim greenish glow stemming from a huge mass of twisted metal before you gives enough illumination to at least make out your hand in front of your face, as well as what’s immediately around you. Looking at the mass in front of you, you can see that it is the wreckage of a subway train – or perhaps even two trains – as if one had run up into another on the same track. Now however, the subway cars choke the dark tunnel you are in, cast zigzag across the tracks in a crumpled and jagged pile of wreckage. The greenish glow comes from inside the smashed train cars themselves and you surmise that it would be illumination form the emergency exits.
+
+
+Looking to your right, you see a mangled body without a head. You shudder and wonder what it was you saw standing over that body in your half-conscious dream state.
+
+
+Thinking back, you try to remember how you could have arrived in such a predicament, but you can’t get past the pain in your head. Your memory is all cloudy. How much of it have you lost? All of it apparently; you can’t even recall your own name. Looking yourself over for a clue to your own identity, you note that you are wearing reasonably savvy business attire with a gold watch. Unfortunately, the watch is broken, its face smashed and the hands stopped at 7:40 am.
+
+
+Checking your back pocket you find your wallet and upon looking inside, you find your license.
+
+
+“Greg Bradley”, you say to yourself, reading the name off the ID. The address shows a street in the suburbs. There’s also a photo of the wife and kids (you guess). The woman is pretty enough and there are two cute girls – a ten year old and a younger one, maybe seven.
+
+
+A twinge of frustration creeps into your mind. Why can’t you remember anything? Isn’t seeing things like this supposed to jar a memory or something? You take the photo out of the wallet and tuck it into your breast pocket. Checking the rest of the contents, you find a number of low-end credit cards, $50 cash, and a half dozen of your own business cards; showing that you are an accountant for the Morgan Corporation, located on the 24th floor of the Summit Tower.
+
+
+Also in your possession is a crushed cell phone (totally dead) and a ring of keys including the key and fob to a Toyota, a house key, a PO Box key, a padlock key, and what you think is an elevator key marked ‘ST 24’. Incidentally, your key chain also includes a small LED penlight – which upon testing in the darkness of the tunnel, seems to offer miniscule comfort against the engulfing blackness.
+
+
+It occurs to you that you should probably find something to bandage your head with. You consider for a moment trying to use your shirt as a makeshift bandage. It seems to work in the movies.
+
+
+It is then that you hear the rattle of movement from within the pile of train wreckage before you, followed by a long mournful sounding groan. Instinctively, you quickly turn off your penlight and remain still; waiting to see what is making the noise without yet revealing your presence. You don’t hear the sound again and wonder if some injured person is trapped there in the twisted subway cars, waiting for you to make the first move…";"113";"Call out to whoever is there";"oui";0
+"5";"11";"Awake";"Dead Man Walking.
+
+
+You are drifting through darkness, floating weightless in an inky black void. Slowly you realize you are not quite awake, but coming out of unconsciousness; you must have passed out for some reason. You try to sit up, but some unseen force holds your body down. With a note of frustration you realize again that you are still not fully awake. Focusing your will you try to start yourself awake, and for a moment it seems to work – you sit up and look around and can see that you are in a dark tunnel with very little light. You notice a man stooped over some object to your right and try to call out to him, but your voice does not work. Regardless, the man turns to look at you and it is then that you see it is not a man at all, but a smoky silhouette of shadow in vaguely a man-like shape. The thing sets upon you in a flash and you feel a smothering presence overpowering you in the darkness, wrapping you up, holding you down; trying to invade you. In panic you jolt awake – this time for real.
+
+
+The first thing you notice is a sharp stabbing pain in your head. Reaching up, you feel your hair matted in blood and grimace as you run your fingers over the jagged edges of what must surely be a serious head wound. Part of your scalp has actually been torn free of your skull and hangs in a greasy mess over your ear. You’re not bleeding from the wound very much – it seems to have clotted – but you definitely should get it seen by a medical professional sooner than later…
+
+
+In addition, your left arm, shoulder, and side are numb. Moving them slightly, you wince at small twinges of pain here and there, but are relieved to see that they are not broken – though it does seem that you have been thrown down on that side recently and with significant force.
+
+
+Sitting yourself up against a wall of cool damp stone you take in your surroundings. The floor is of hard packed dirt with a thick layer of dust on top and (from what you can feel), quite a bit of shattered safety glass lays around you. In the air you smell a mix of smoke and ozone, like when an electrical outlet shorts out. That and the heavy stink of blood (your own maybe, you do seem to have lost quite a bit) and something reminiscent of burning hair… All in all, it’s somewhat hard to breathe, as if you’re not quite getting enough oxygen with each breath.
+
+
+It is very dark, but a dim greenish glow stemming from a huge mass of twisted metal before you gives enough illumination to at least make out your hand in front of your face, as well as what’s immediately around you. Looking at the mass in front of you, you can see that it is the wreckage of a subway train – or perhaps even two trains – as if one had run up into another on the same track. Now however, the subway cars choke the dark tunnel you are in, cast zigzag across the tracks in a crumpled and jagged pile of wreckage. The greenish glow comes from inside the smashed train cars themselves and you surmise that it would be illumination form the emergency exits.
+
+
+Looking to your right, you see a mangled body without a head. You shudder and wonder what it was you saw standing over that body in your half-conscious dream state.
+
+
+Thinking back, you try to remember how you could have arrived in such a predicament, but you can’t get past the pain in your head. Your memory is all cloudy. How much of it have you lost? All of it apparently; you can’t even recall your own name. Looking yourself over for a clue to your own identity, you note that you are wearing reasonably savvy business attire with a gold watch. Unfortunately, the watch is broken, its face smashed and the hands stopped at 7:40 am.
+
+
+Checking your back pocket you find your wallet and upon looking inside, you find your license.
+
+
+“Greg Bradley”, you say to yourself, reading the name off the ID. The address shows a street in the suburbs. There’s also a photo of the wife and kids (you guess). The woman is pretty enough and there are two cute girls – a ten year old and a younger one, maybe seven.
+
+
+A twinge of frustration creeps into your mind. Why can’t you remember anything? Isn’t seeing things like this supposed to jar a memory or something? You take the photo out of the wallet and tuck it into your breast pocket. Checking the rest of the contents, you find a number of low-end credit cards, $50 cash, and a half dozen of your own business cards; showing that you are an accountant for the Morgan Corporation, located on the 24th floor of the Summit Tower.
+
+
+Also in your possession is a crushed cell phone (totally dead) and a ring of keys including the key and fob to a Toyota, a house key, a PO Box key, a padlock key, and what you think is an elevator key marked ‘ST 24’. Incidentally, your key chain also includes a small LED penlight – which upon testing in the darkness of the tunnel, seems to offer miniscule comfort against the engulfing blackness.
+
+
+It occurs to you that you should probably find something to bandage your head with. You consider for a moment trying to use your shirt as a makeshift bandage. It seems to work in the movies.
+
+
+It is then that you hear the rattle of movement from within the pile of train wreckage before you, followed by a long mournful sounding groan. Instinctively, you quickly turn off your penlight and remain still; waiting to see what is making the noise without yet revealing your presence. You don’t hear the sound again and wonder if some injured person is trapped there in the twisted subway cars, waiting for you to make the first move…";"114";"Try to sneak toward the source of the sound without revealing your presence";"oui";0
+"6";"11";"Awake";"Dead Man Walking.
+
+
+You are drifting through darkness, floating weightless in an inky black void. Slowly you realize you are not quite awake, but coming out of unconsciousness; you must have passed out for some reason. You try to sit up, but some unseen force holds your body down. With a note of frustration you realize again that you are still not fully awake. Focusing your will you try to start yourself awake, and for a moment it seems to work – you sit up and look around and can see that you are in a dark tunnel with very little light. You notice a man stooped over some object to your right and try to call out to him, but your voice does not work. Regardless, the man turns to look at you and it is then that you see it is not a man at all, but a smoky silhouette of shadow in vaguely a man-like shape. The thing sets upon you in a flash and you feel a smothering presence overpowering you in the darkness, wrapping you up, holding you down; trying to invade you. In panic you jolt awake – this time for real.
+
+
+The first thing you notice is a sharp stabbing pain in your head. Reaching up, you feel your hair matted in blood and grimace as you run your fingers over the jagged edges of what must surely be a serious head wound. Part of your scalp has actually been torn free of your skull and hangs in a greasy mess over your ear. You’re not bleeding from the wound very much – it seems to have clotted – but you definitely should get it seen by a medical professional sooner than later…
+
+
+In addition, your left arm, shoulder, and side are numb. Moving them slightly, you wince at small twinges of pain here and there, but are relieved to see that they are not broken – though it does seem that you have been thrown down on that side recently and with significant force.
+
+
+Sitting yourself up against a wall of cool damp stone you take in your surroundings. The floor is of hard packed dirt with a thick layer of dust on top and (from what you can feel), quite a bit of shattered safety glass lays around you. In the air you smell a mix of smoke and ozone, like when an electrical outlet shorts out. That and the heavy stink of blood (your own maybe, you do seem to have lost quite a bit) and something reminiscent of burning hair… All in all, it’s somewhat hard to breathe, as if you’re not quite getting enough oxygen with each breath.
+
+
+It is very dark, but a dim greenish glow stemming from a huge mass of twisted metal before you gives enough illumination to at least make out your hand in front of your face, as well as what’s immediately around you. Looking at the mass in front of you, you can see that it is the wreckage of a subway train – or perhaps even two trains – as if one had run up into another on the same track. Now however, the subway cars choke the dark tunnel you are in, cast zigzag across the tracks in a crumpled and jagged pile of wreckage. The greenish glow comes from inside the smashed train cars themselves and you surmise that it would be illumination form the emergency exits.
+
+
+Looking to your right, you see a mangled body without a head. You shudder and wonder what it was you saw standing over that body in your half-conscious dream state.
+
+
+Thinking back, you try to remember how you could have arrived in such a predicament, but you can’t get past the pain in your head. Your memory is all cloudy. How much of it have you lost? All of it apparently; you can’t even recall your own name. Looking yourself over for a clue to your own identity, you note that you are wearing reasonably savvy business attire with a gold watch. Unfortunately, the watch is broken, its face smashed and the hands stopped at 7:40 am.
+
+
+Checking your back pocket you find your wallet and upon looking inside, you find your license.
+
+
+“Greg Bradley”, you say to yourself, reading the name off the ID. The address shows a street in the suburbs. There’s also a photo of the wife and kids (you guess). The woman is pretty enough and there are two cute girls – a ten year old and a younger one, maybe seven.
+
+
+A twinge of frustration creeps into your mind. Why can’t you remember anything? Isn’t seeing things like this supposed to jar a memory or something? You take the photo out of the wallet and tuck it into your breast pocket. Checking the rest of the contents, you find a number of low-end credit cards, $50 cash, and a half dozen of your own business cards; showing that you are an accountant for the Morgan Corporation, located on the 24th floor of the Summit Tower.
+
+
+Also in your possession is a crushed cell phone (totally dead) and a ring of keys including the key and fob to a Toyota, a house key, a PO Box key, a padlock key, and what you think is an elevator key marked ‘ST 24’. Incidentally, your key chain also includes a small LED penlight – which upon testing in the darkness of the tunnel, seems to offer miniscule comfort against the engulfing blackness.
+
+
+It occurs to you that you should probably find something to bandage your head with. You consider for a moment trying to use your shirt as a makeshift bandage. It seems to work in the movies.
+
+
+It is then that you hear the rattle of movement from within the pile of train wreckage before you, followed by a long mournful sounding groan. Instinctively, you quickly turn off your penlight and remain still; waiting to see what is making the noise without yet revealing your presence. You don’t hear the sound again and wonder if some injured person is trapped there in the twisted subway cars, waiting for you to make the first move…";"115";"Ignore the sound and climb through the wreckage to the front of the subway train";"oui";0
+"7";"11";"Awake";"Dead Man Walking.
+
+
+You are drifting through darkness, floating weightless in an inky black void. Slowly you realize you are not quite awake, but coming out of unconsciousness; you must have passed out for some reason. You try to sit up, but some unseen force holds your body down. With a note of frustration you realize again that you are still not fully awake. Focusing your will you try to start yourself awake, and for a moment it seems to work – you sit up and look around and can see that you are in a dark tunnel with very little light. You notice a man stooped over some object to your right and try to call out to him, but your voice does not work. Regardless, the man turns to look at you and it is then that you see it is not a man at all, but a smoky silhouette of shadow in vaguely a man-like shape. The thing sets upon you in a flash and you feel a smothering presence overpowering you in the darkness, wrapping you up, holding you down; trying to invade you. In panic you jolt awake – this time for real.
+
+
+The first thing you notice is a sharp stabbing pain in your head. Reaching up, you feel your hair matted in blood and grimace as you run your fingers over the jagged edges of what must surely be a serious head wound. Part of your scalp has actually been torn free of your skull and hangs in a greasy mess over your ear. You’re not bleeding from the wound very much – it seems to have clotted – but you definitely should get it seen by a medical professional sooner than later…
+
+
+In addition, your left arm, shoulder, and side are numb. Moving them slightly, you wince at small twinges of pain here and there, but are relieved to see that they are not broken – though it does seem that you have been thrown down on that side recently and with significant force.
+
+
+Sitting yourself up against a wall of cool damp stone you take in your surroundings. The floor is of hard packed dirt with a thick layer of dust on top and (from what you can feel), quite a bit of shattered safety glass lays around you. In the air you smell a mix of smoke and ozone, like when an electrical outlet shorts out. That and the heavy stink of blood (your own maybe, you do seem to have lost quite a bit) and something reminiscent of burning hair… All in all, it’s somewhat hard to breathe, as if you’re not quite getting enough oxygen with each breath.
+
+
+It is very dark, but a dim greenish glow stemming from a huge mass of twisted metal before you gives enough illumination to at least make out your hand in front of your face, as well as what’s immediately around you. Looking at the mass in front of you, you can see that it is the wreckage of a subway train – or perhaps even two trains – as if one had run up into another on the same track. Now however, the subway cars choke the dark tunnel you are in, cast zigzag across the tracks in a crumpled and jagged pile of wreckage. The greenish glow comes from inside the smashed train cars themselves and you surmise that it would be illumination form the emergency exits.
+
+
+Looking to your right, you see a mangled body without a head. You shudder and wonder what it was you saw standing over that body in your half-conscious dream state.
+
+
+Thinking back, you try to remember how you could have arrived in such a predicament, but you can’t get past the pain in your head. Your memory is all cloudy. How much of it have you lost? All of it apparently; you can’t even recall your own name. Looking yourself over for a clue to your own identity, you note that you are wearing reasonably savvy business attire with a gold watch. Unfortunately, the watch is broken, its face smashed and the hands stopped at 7:40 am.
+
+
+Checking your back pocket you find your wallet and upon looking inside, you find your license.
+
+
+“Greg Bradley”, you say to yourself, reading the name off the ID. The address shows a street in the suburbs. There’s also a photo of the wife and kids (you guess). The woman is pretty enough and there are two cute girls – a ten year old and a younger one, maybe seven.
+
+
+A twinge of frustration creeps into your mind. Why can’t you remember anything? Isn’t seeing things like this supposed to jar a memory or something? You take the photo out of the wallet and tuck it into your breast pocket. Checking the rest of the contents, you find a number of low-end credit cards, $50 cash, and a half dozen of your own business cards; showing that you are an accountant for the Morgan Corporation, located on the 24th floor of the Summit Tower.
+
+
+Also in your possession is a crushed cell phone (totally dead) and a ring of keys including the key and fob to a Toyota, a house key, a PO Box key, a padlock key, and what you think is an elevator key marked ‘ST 24’. Incidentally, your key chain also includes a small LED penlight – which upon testing in the darkness of the tunnel, seems to offer miniscule comfort against the engulfing blackness.
+
+
+It occurs to you that you should probably find something to bandage your head with. You consider for a moment trying to use your shirt as a makeshift bandage. It seems to work in the movies.
+
+
+It is then that you hear the rattle of movement from within the pile of train wreckage before you, followed by a long mournful sounding groan. Instinctively, you quickly turn off your penlight and remain still; waiting to see what is making the noise without yet revealing your presence. You don’t hear the sound again and wonder if some injured person is trapped there in the twisted subway cars, waiting for you to make the first move…";"116";"Ignore the sound and climb through the wreckage to the rear of the subway train";"non";0
+"8";"116";"Rear of Train";"You move quickly, ignoring the mess behind you and the throbbing pain of your injuries, making your way over and through the wreckage of the train cars that scatter the tunnel in the direction the train was coming from before the wreck.
+
+
+Along the way you see dead bodies everywhere, smashed into the twisted metal of the wrecked train cars – each more gruesome than the last. Disturbingly, you also notice an unusually large amount of entrails scattered about. You somehow doubt that that many people could all have been disemboweled simultaneously by a simple train wreck – even one as serious as this one appears to be. You’re not sure (and you certainly don’t want to get close enough to find out firsthand), but some of the bodies even look as if they have recently been savaged, as if by some wild animals’ rending jaws. Damn! Are these zombies you’re dealing with?!? Is that possible?
+
+
+As you get further along, you also notice a large number of bloody footprints headed in the same direction you are going. They seem to be joined by more and more footprints as you pass through one mangled subway car after another.
+
+
+It is not long before you get to the last car of the train you had been riding on. In walking, you surmise that you had been on the train and thrown out a window when it crashed. You must have struck your head when you landed, which knocked you out for who knows how long. On that thought, you risk approaching a random victim’s arm sticking out of the wreckage to take their watch. Unlike yours, this one still works and indicates the time to be 7:55 pm. If that is correct, and your watch indicates the time of the crash, that means you were out of it for roughly twelve hours. Wow, you’d better not go back to sleep until you can get yourself to a hospital or you might not wake up again. You also find a working cell phone in the aisle as you go and see that it still works, but there’s no signal down here in the subway tunnel.
+
+
+Looking down the dark tunnel from the last car of your train, you wonder how long the batteries in your penlight will last. You’ll also have illumination from your cell phone in a pinch, but then you have no weapons. What if you run into whatever has been shredding all these bodies? In that case, maybe you really don’t want a light to see what it is with…
+
+
+You also see that all the bloody footprints leave the train at this point and continue down the tunnel in the direction the train was coming from. They are quickly lost however in the hard-packed dirt and darkness of the tunnel itself – though following them won’t be a problem – you only got one direction to go – unless you want to turn around and go back the way you just came.";"1161";"Continue down the dark tunnel in the direction the train was coming from";"oui";0
+"9";"116";"Rear of Train";"You move quickly, ignoring the mess behind you and the throbbing pain of your injuries, making your way over and through the wreckage of the train cars that scatter the tunnel in the direction the train was coming from before the wreck.
+
+
+Along the way you see dead bodies everywhere, smashed into the twisted metal of the wrecked train cars – each more gruesome than the last. Disturbingly, you also notice an unusually large amount of entrails scattered about. You somehow doubt that that many people could all have been disemboweled simultaneously by a simple train wreck – even one as serious as this one appears to be. You’re not sure (and you certainly don’t want to get close enough to find out firsthand), but some of the bodies even look as if they have recently been savaged, as if by some wild animals’ rending jaws. Damn! Are these zombies you’re dealing with?!? Is that possible?
+
+
+As you get further along, you also notice a large number of bloody footprints headed in the same direction you are going. They seem to be joined by more and more footprints as you pass through one mangled subway car after another.
+
+
+It is not long before you get to the last car of the train you had been riding on. In walking, you surmise that you had been on the train and thrown out a window when it crashed. You must have struck your head when you landed, which knocked you out for who knows how long. On that thought, you risk approaching a random victim’s arm sticking out of the wreckage to take their watch. Unlike yours, this one still works and indicates the time to be 7:55 pm. If that is correct, and your watch indicates the time of the crash, that means you were out of it for roughly twelve hours. Wow, you’d better not go back to sleep until you can get yourself to a hospital or you might not wake up again. You also find a working cell phone in the aisle as you go and see that it still works, but there’s no signal down here in the subway tunnel.
+
+
+Looking down the dark tunnel from the last car of your train, you wonder how long the batteries in your penlight will last. You’ll also have illumination from your cell phone in a pinch, but then you have no weapons. What if you run into whatever has been shredding all these bodies? In that case, maybe you really don’t want a light to see what it is with…
+
+
+You also see that all the bloody footprints leave the train at this point and continue down the tunnel in the direction the train was coming from. They are quickly lost however in the hard-packed dirt and darkness of the tunnel itself – though following them won’t be a problem – you only got one direction to go – unless you want to turn around and go back the way you just came.";"1162";"Head back the way you came first, in the direction the train was going (maybe you can find tools or a first aid kit at the front of the train)";"non";0
+"10";"1162";"Going Back";"Deciding that wandering down the dark tunnel in the direction of all those bloody footprints without a weapon isn’t the best idea, you turn around and head back toward the front of the train. They probably keep a first aid kit and other tools in the front of each train with the driver anyway; and you can always come back this way later if you have to.
+
+
+Pressing forward, you cautiously pass through the scattered cars of the train with much the same scene of carnage cast before your eyes at every step. You are just getting back to where you had originally come from, when you hear moaning and shuffling coming your way through the scattered debris of the train car ahead of you.
+
+
+Carefully moving just enough to peer around the side of the subway car, you see two more subway passengers, moaning and staggering towards your general location. Something seems very wrong about them and you notice that both look pretty mangled from the train wreck – one even appears to be hobbling along on a the stump of its completely torn off foot!
+
+
+While they don’t appear to have seen you and are not moving very quickly, it’s only a matter of moments before they will be right on your position.
+
+
+Quickly scanning your surroundings you formulate a couple of quick ideas:
+
+
+You spot a nearby briefcase and think that you could throw it through a broken window to lure them away from you, so that you can circle past them on the other side of the wreckage. If it works you’ll be able to avoid them altogether and continue on your way.
+
+
+At the back of the train car you see an old man’s wooden cane. If you go for that, the moaning subway passengers will arrive and see you, but you will at least have a weapon (albeit not a very great one) to fight them off with if they try anything.";"11621";"Throw the briefcase and try to sneak past in the distraction";"oui";0
+"11";"1162";"Going Back";"Deciding that wandering down the dark tunnel in the direction of all those bloody footprints without a weapon isn’t the best idea, you turn around and head back toward the front of the train. They probably keep a first aid kit and other tools in the front of each train with the driver anyway; and you can always come back this way later if you have to.
+
+
+Pressing forward, you cautiously pass through the scattered cars of the train with much the same scene of carnage cast before your eyes at every step. You are just getting back to where you had originally come from, when you hear moaning and shuffling coming your way through the scattered debris of the train car ahead of you.
+
+
+Carefully moving just enough to peer around the side of the subway car, you see two more subway passengers, moaning and staggering towards your general location. Something seems very wrong about them and you notice that both look pretty mangled from the train wreck – one even appears to be hobbling along on a the stump of its completely torn off foot!
+
+
+While they don’t appear to have seen you and are not moving very quickly, it’s only a matter of moments before they will be right on your position.
+
+
+Quickly scanning your surroundings you formulate a couple of quick ideas:
+
+
+You spot a nearby briefcase and think that you could throw it through a broken window to lure them away from you, so that you can circle past them on the other side of the wreckage. If it works you’ll be able to avoid them altogether and continue on your way.
+
+
+At the back of the train car you see an old man’s wooden cane. If you go for that, the moaning subway passengers will arrive and see you, but you will at least have a weapon (albeit not a very great one) to fight them off with if they try anything.";"11622";"Go for the cane and fight them off if you have to";"non";0
+"12";"11622";"Get Cane";"You rush to the back of the train and pick up the wooden cane, just as the two moaning subway passengers stumble in. Upon seeing you, they both wail mournfully and lurch toward you with outstretched hands and a determined gate. This close you see a dead look in their eyes – my god; they look like zombies!
+
+
+You don’t wait for them to grab you and move to meet them, swinging the cane as hard as you can at the first one’s temple. The man doesn’t even bother to defend himself and you strike him with a loud crack – splitting the cane in two. The man looks a little dazed and you have left an ugly welt on the side of his head, but he is still standing. You happen to note that the cane has split diagonally down its length in such a way as to leave a very sharp end. Without thinking you jam the sharp end into your attacker’s face – skewering its head – and it groans one final time as it sinks to the floor.
+
+
+You look with dismay at your now empty hands, trying to formulate a new plan of action through the mounting sense of panic as the other man closes in. It is then that you realize he is already on you, having lunged with surprising agility for someone so broken up. Before you can do anything more, you are pushed backwards out a broken door and land on the ground outside the subway car with the lunatic right on top of you, trying to bite at your neck!
+
+
+Instinctively, you defend yourself with a raised arm, only to feel the monster chomp deeply into it – tearing a chunk out and apparently taking a moment to savor the meaty flesh.
+
+
+You ignore the pain and grit your teeth, taking advantage of the monster’s momentary distraction to reach blindly for anything on the ground around you to use as a weapon. Amazingly, your left hand brushes over something metallic and heavy enough to give you hope. You grab hold and slam the object into the fiend’s temple, knocking it over and allowing you to scramble up. You no longer have whatever it was in your hand, but the thing isn’t getting up either. Not waiting to give it a moment’s quarter, you stomp on the back of its neck repeatedly, crunching up its vertebrae, until you are satisfied that it isn’t going to get up anytime soon. That is when you notice the railroad tie spike buried in the side of its head.
+
+
+You scramble up and hurry from the scene.
+
+
+At length you arrive at the first car of the train you had been riding on and see that it is completely flattened under the rear cars of another train. It looks as if the first train was stopped on the tracks and your train somehow ran into the back of it at a rather high rate of speed it would seem. You won’t be able to get anything useful from there, so you move on. Hopefully the front of the other train fared better than this one.
+
+
+After a while, you finally arrive at the head of the first train. Unlike your train, the first car of this train is relatively intact. You know that at the very front of the train is a control room, which hopefully will have at least a first aid kit and if you’re lucky, a working radio. As you approach, you see that more bloody footprints leave the train at this point to continue down the tunnel in the direction the train was headed. There are significantly more tracks going in this direction than were headed down the tunnel at the other end of the train. And, as before, they are quickly lost in the hard-packed dirt and darkness of the tunnel itself.";"116221";"Search the train’s control room before deciding what to do";"non";0
+"13";"116221";"Control Room";"The door to the train’s control room is locked, but you are able to go outside and pull the smashed remains of the train car’s windshield out, allowing you to climb inside. When the train was hit from behind, it caused the cars of both trains to accordion together, sending them sliding almost sideways down the tunnel into each other until this particular car got wedged in a narrow spot and caused the massive and jagged pileup behind it. As you enter the control room, you see that the driver of the train has been crushed to death by the front of the train as it smashed into the side of the tunnel and got wedged in. You try not to look too closely at his flattened and gore drained shell; or the pool of mess under what’s left of his seat.
+
+
+Checking the area, you see a map of the train lines on one wall and note that the train was headed into the city before it crashed. That makes sense to you, as you would have been traveling from your house in the suburbs to your office in the city during the morning rush. Looking around some more, you find a well-stocked first aid kit, a proper flashlight, a crowbar, some signal flares, a large fire extinguisher, and working CB radio. You also find the train operator’s book bag with his lunch in it and help yourself to the contents, seeing as he won’t miss it anytime soon. You’re actually surprised that it tastes so good, given that you’re eating it in a small room with a horribly mangled corpse just a few feet away.
+
+
+After eating, you wrap your wounds in proper bandages and down a couple of pain pills and a no doze. You’re pretty sure you don’t want to fall asleep in here regardless of the head injury. You definitely don’t feel safe down here in this tunnel of death. Packing the first aid kit, flashlight, and signal flares in the book bag, you heft the crowbar in your hand and check out the CB Radio – unfortunately, it’s not the portable kind, but definitely worth trying to call for help on.
+
+
+You consider trying to take the large fire extinguisher, but are not sure about the weight versus utility. It can wait till you’re ready to leave, so you decide to address it again after trying the radio.";"1162211";"Try the CB Radio";"non";0
+"14";"1162211";"The Radio";"After a while trying the current channel with no response, you try calling out on the other channels. Just when you are ready to give up, you dial channel 7 and hear a voice answer you on the other end.
+
+
+“Help, I’ve been in a subway train wreck!” you say over the com.
+
+
+“This is Officer Main of the 3rd Precinct, who is this, over.”
+
+
+“Uh, my name is Greg Bradley”, you identify yourself, “I’m on a wrecked subway car down in the tunnels, I don’t know where exactly. Everyone onboard is either dead or gone.”
+
+
+You hear an awkward pause on the other end of the com, and then Officer Main’s voice comes back on, slow and grim.
+
+
+“Listen Greg, there is no easy way to tell you this, but the whole world has gone to shit, just like that train down there. Some sort of terrorist bio-weapon released on the city this morning. A poison gas, or virus, or the like. It causes those exposed to suffer death-like symptoms, including a semi rigor mortis like state, and then they go crazy with cannibalistic rage. Just like the zombies in them movies. And like the movies, you got to hit them in the head and destroy their brain in order to put them down for good. Also, if you get bit by one you got roughly ten minutes before you’re one of them yourself – though I did heard this one guy actually lasted three hours before he changed. You haven’t been bitten now have you” he asks, pausing for a reply.
+
+
+“No”, you say quickly, looking at your arm but not wanting to lose contact with what could possibly be the last living soul in the city.
+
+
+“All right then,” Officer Main continues, “Here’s what you need to do. Follow the tracks to the first station and get to the streets above. The first thing you need to do is avoid contact with any zombies. Next, you need to get your bearings and know where you are in the city – get a street map if you can. Then find a pry bar or tire iron and drop yourself into the nearest ‘center of the street’ manhole cover. It has to be one in the center of a main street, not a side street or manhole cover near the curb. And unless you’re Lou Ferrigno, you’ll need the tire iron to lever up the hundred and seventy five pound manhole cover. Obviously a light is going to be handy down there too.”
+
+
+“You still with me?” he asks.
+
+
+“Uh, yeah, I understand,” you reply – more than a little apprehensive about some plan to go down into more dark tunnels with ravening cannibalistic zombies lurking about.
+
+
+“Good” he continues. “Once inside, set the manhole cover back behind you – this should keep the zombies from following you in, unless you really piss them off for some reason. There shouldn’t be any zombies in the sewer tunnels – or if there are, there’ll be a hell of a lot less in there than on the streets. Once in the main sewer line, follow it just like you would the streets above to our Precinct House here on 3rd and Spring Street. You’ll see street names marked at each intersection of the tunnels and they run directly under the center of most streets. When you get to 3rd and Spring Street, you’ll need to be careful. The zombies are thick in this area, but we’re nice and safe here in our Precinct House. Like a fortress here, and well-armed, so you don’t got to worry once you’re inside – you just have to make a dash from the street to the door is all – you are good at running right? Over.”
+
+
+“I’m injured; got a head wound”, you reply, “but I suppose I can run a short distance all right. What about the hospitals though? I think I really need medical attention rather quickly. Uh, over.”
+
+
+“No, don’t go to any hospital! They are all overrun with the dead and undead. We have medical supplies here and a triage unit with doctors and a surgeon. You get yourself here and we can help you. You hear?”
+
+
+“Yeah, thanks for the information. I’ll try to get to you,” you say, not really certain about it just yet.
+
+
+“Good Luck. Over” comes back the final reply.";"11622111";"Take a moment to give thought to the situation";"non";0
+"15";"11622111";"OK Now What";"After giving it some thought you conclude that you now have a number of things to consider. If the city really is overrun with zombies, then you’ll need more than a crowbar to survive. You need real medical attention pretty soon too.
+
+
+The 3rd Precinct seems to offer both and is in the direction the train was going.
+
+
+Then there is your home and family. You don’t remember anything of them yet, but perhaps seeing one of them in person will trigger the return of your memories. You know they must love you and wonder if they are safe.
+
+
+Has the attack spread into the suburbs; or is it contained in the city? What if it spreads further? Is this the only city to be attacked; or are there more cities across the country facing the zombie threat?
+
+
+You’re not entirely sure how far your home is from the city, but you think you had just over a 40 minute commute – yeah, that sounds right. You try to work out in your head how far that would be in miles if you estimate the average speed of the train, when it occurs to you just to look at the line map on the wall of the control room. There you see that your suburb is twenty-six miles away from Summit Station (you presume under Summit Tower where you work), taking the green line from Summit Station to Fairmont Station and from there, the yellow line to Suburbia Station. Now all you need to know is where on the green line you are currently, which you won’t find out until you walk in one direction or the other to a station.
+
+
+Of course, what is the point if you’re just going to turn into one of those things in…
+
+
+You look at your watch, it says 9:05pm…
+
+
+You got about two hours left. Damn, that sucks.
+
+
+With this weighing on your mind, you…";"116221111";"Take the heavy fire extinguisher & continue heading further into the city in the direction the train was going";"oui";0
+"16";"11622111";"OK Now What";"After giving it some thought you conclude that you now have a number of things to consider. If the city really is overrun with zombies, then you’ll need more than a crowbar to survive. You need real medical attention pretty soon too.
+
+
+The 3rd Precinct seems to offer both and is in the direction the train was going.
+
+
+Then there is your home and family. You don’t remember anything of them yet, but perhaps seeing one of them in person will trigger the return of your memories. You know they must love you and wonder if they are safe.
+
+
+Has the attack spread into the suburbs; or is it contained in the city? What if it spreads further? Is this the only city to be attacked; or are there more cities across the country facing the zombie threat?
+
+
+You’re not entirely sure how far your home is from the city, but you think you had just over a 40 minute commute – yeah, that sounds right. You try to work out in your head how far that would be in miles if you estimate the average speed of the train, when it occurs to you just to look at the line map on the wall of the control room. There you see that your suburb is twenty-six miles away from Summit Station (you presume under Summit Tower where you work), taking the green line from Summit Station to Fairmont Station and from there, the yellow line to Suburbia Station. Now all you need to know is where on the green line you are currently, which you won’t find out until you walk in one direction or the other to a station.
+
+
+Of course, what is the point if you’re just going to turn into one of those things in…
+
+
+You look at your watch, it says 9:05pm…
+
+
+You got about two hours left. Damn, that sucks.
+
+
+With this weighing on your mind, you…";"116221112";"Leave the heavy fire extinguisher & continue heading further into the city";"oui";0
+"17";"11622111";"OK Now What";"After giving it some thought you conclude that you now have a number of things to consider. If the city really is overrun with zombies, then you’ll need more than a crowbar to survive. You need real medical attention pretty soon too.
+
+
+The 3rd Precinct seems to offer both and is in the direction the train was going.
+
+
+Then there is your home and family. You don’t remember anything of them yet, but perhaps seeing one of them in person will trigger the return of your memories. You know they must love you and wonder if they are safe.
+
+
+Has the attack spread into the suburbs; or is it contained in the city? What if it spreads further? Is this the only city to be attacked; or are there more cities across the country facing the zombie threat?
+
+
+You’re not entirely sure how far your home is from the city, but you think you had just over a 40 minute commute – yeah, that sounds right. You try to work out in your head how far that would be in miles if you estimate the average speed of the train, when it occurs to you just to look at the line map on the wall of the control room. There you see that your suburb is twenty-six miles away from Summit Station (you presume under Summit Tower where you work), taking the green line from Summit Station to Fairmont Station and from there, the yellow line to Suburbia Station. Now all you need to know is where on the green line you are currently, which you won’t find out until you walk in one direction or the other to a station.
+
+
+Of course, what is the point if you’re just going to turn into one of those things in…
+
+
+You look at your watch, it says 9:05pm…
+
+
+You got about two hours left. Damn, that sucks.
+
+
+With this weighing on your mind, you…";"116221113";"Take the heavy fire extinguisher & head back the way you came in the direction the train was coming from";"oui";0
+"18";"11622111";"OK Now What";"After giving it some thought you conclude that you now have a number of things to consider. If the city really is overrun with zombies, then you’ll need more than a crowbar to survive. You need real medical attention pretty soon too.
+
+
+The 3rd Precinct seems to offer both and is in the direction the train was going.
+
+
+Then there is your home and family. You don’t remember anything of them yet, but perhaps seeing one of them in person will trigger the return of your memories. You know they must love you and wonder if they are safe.
+
+
+Has the attack spread into the suburbs; or is it contained in the city? What if it spreads further? Is this the only city to be attacked; or are there more cities across the country facing the zombie threat?
+
+
+You’re not entirely sure how far your home is from the city, but you think you had just over a 40 minute commute – yeah, that sounds right. You try to work out in your head how far that would be in miles if you estimate the average speed of the train, when it occurs to you just to look at the line map on the wall of the control room. There you see that your suburb is twenty-six miles away from Summit Station (you presume under Summit Tower where you work), taking the green line from Summit Station to Fairmont Station and from there, the yellow line to Suburbia Station. Now all you need to know is where on the green line you are currently, which you won’t find out until you walk in one direction or the other to a station.
+
+
+Of course, what is the point if you’re just going to turn into one of those things in…
+
+
+You look at your watch, it says 9:05pm…
+
+
+You got about two hours left. Damn, that sucks.
+
+
+With this weighing on your mind, you…";"116221114";"Leave the heavy fire extinguisher & head back the way you came";"oui";0
+"19";"11622111";"OK Now What";"After giving it some thought you conclude that you now have a number of things to consider. If the city really is overrun with zombies, then you’ll need more than a crowbar to survive. You need real medical attention pretty soon too.
+
+
+The 3rd Precinct seems to offer both and is in the direction the train was going.
+
+
+Then there is your home and family. You don’t remember anything of them yet, but perhaps seeing one of them in person will trigger the return of your memories. You know they must love you and wonder if they are safe.
+
+
+Has the attack spread into the suburbs; or is it contained in the city? What if it spreads further? Is this the only city to be attacked; or are there more cities across the country facing the zombie threat?
+
+
+You’re not entirely sure how far your home is from the city, but you think you had just over a 40 minute commute – yeah, that sounds right. You try to work out in your head how far that would be in miles if you estimate the average speed of the train, when it occurs to you just to look at the line map on the wall of the control room. There you see that your suburb is twenty-six miles away from Summit Station (you presume under Summit Tower where you work), taking the green line from Summit Station to Fairmont Station and from there, the yellow line to Suburbia Station. Now all you need to know is where on the green line you are currently, which you won’t find out until you walk in one direction or the other to a station.
+
+
+Of course, what is the point if you’re just going to turn into one of those things in…
+
+
+You look at your watch, it says 9:05pm…
+
+
+You got about two hours left. Damn, that sucks.
+
+
+With this weighing on your mind, you…";"116221115";"Sit here for the next two hours and stoically await your death/transformation/whatever it is";"non";0
+"20";"116221115";"Am I Undead";"You wait in the train control room, resigned to your fate and worried for some reason more that the emergency exit illumination will go out before you expire, than the fact that you are going to die and rise up as a brain eating monster.
+
+
+Yuck. You never did like the thought of eating brains, or livers, or that other disgusting stuff people eat sometimes. Hell, you can’t even swallow sushi without gaging.
+
+
+Yeah, you’ll make a real classy zombie, you think sarcastically to yourself, gagging on other peoples’ brains.
+
+
+After an hour of sitting there, you begin to feel feverish and the pain of your head wound is lost in the burning sensation that has slowly spread out from the bite in your arm to fill your whole body.
+
+
+You lull in semi-consciousness; now sorry you took that no doze. At least if you had fallen asleep and not woke up, you wouldn’t have to be going through this right now. Your mind reels, jumping chaotically between the horrifying scenes of slaughter witnessed this day and half memories of your family, that feign to come back but then evaporate just before your mind can latch onto them.
+
+
+You then feel a strange combination of burning and tightness in all your muscles and note that it is hard to move. Catching a glimpse of your watch, you see that it has been at least three hours since you were bit. Well, this is it then.
+
+
+You’re not even able to put your hand back down before you lock up in paralysis completely; sitting there against the wall of the control car looking at your watch. After a few minutes, your vision also blurs, and you can no longer read the face of your watch.
+
+
+You’re not sure how long you sit there, drifting in and out of awareness, until you suddenly notice you can read your watch again. It is 6:00am – the time you normally get up in the morning to get ready for work. In fact, you even think you can hear the beeping of a morning alarm coming from somewhere.
+
+
+Then, all at once, every muscle of your body suddenly releases, and you find yourself drenched in sweat. Your fever is gone and you no longer feel a burning throughout your body or even in your arm. Now you’re just in good old fashion pain.
+
+
+You realize the alarm on your watch is beeping and you quickly turn it off and grab your crowbar, hoping the sound hasn’t attracted any zombies to your position. Looking yourself over, you appear normal – not the walking dead like you expected. You quickly do some math in your head. No problem. You’re pretty sure zombies don’t do math. Small blessing.
+
+
+It seems darker in the control car than you remember and sure enough, the emergency exit illumination has begun to wane – like one of those glow sticks you crush to get started. You better get going.
+
+
+You grab your flashlight and gear and:";"1162211151";"Take the heavy fire extinguisher & continue heading further into the city in the direction the train was going";"oui";0
+"21";"116221115";"Am I Undead";"You wait in the train control room, resigned to your fate and worried for some reason more that the emergency exit illumination will go out before you expire, than the fact that you are going to die and rise up as a brain eating monster.
+
+
+Yuck. You never did like the thought of eating brains, or livers, or that other disgusting stuff people eat sometimes. Hell, you can’t even swallow sushi without gaging.
+
+
+Yeah, you’ll make a real classy zombie, you think sarcastically to yourself, gagging on other peoples’ brains.
+
+
+After an hour of sitting there, you begin to feel feverish and the pain of your head wound is lost in the burning sensation that has slowly spread out from the bite in your arm to fill your whole body.
+
+
+You lull in semi-consciousness; now sorry you took that no doze. At least if you had fallen asleep and not woke up, you wouldn’t have to be going through this right now. Your mind reels, jumping chaotically between the horrifying scenes of slaughter witnessed this day and half memories of your family, that feign to come back but then evaporate just before your mind can latch onto them.
+
+
+You then feel a strange combination of burning and tightness in all your muscles and note that it is hard to move. Catching a glimpse of your watch, you see that it has been at least three hours since you were bit. Well, this is it then.
+
+
+You’re not even able to put your hand back down before you lock up in paralysis completely; sitting there against the wall of the control car looking at your watch. After a few minutes, your vision also blurs, and you can no longer read the face of your watch.
+
+
+You’re not sure how long you sit there, drifting in and out of awareness, until you suddenly notice you can read your watch again. It is 6:00am – the time you normally get up in the morning to get ready for work. In fact, you even think you can hear the beeping of a morning alarm coming from somewhere.
+
+
+Then, all at once, every muscle of your body suddenly releases, and you find yourself drenched in sweat. Your fever is gone and you no longer feel a burning throughout your body or even in your arm. Now you’re just in good old fashion pain.
+
+
+You realize the alarm on your watch is beeping and you quickly turn it off and grab your crowbar, hoping the sound hasn’t attracted any zombies to your position. Looking yourself over, you appear normal – not the walking dead like you expected. You quickly do some math in your head. No problem. You’re pretty sure zombies don’t do math. Small blessing.
+
+
+It seems darker in the control car than you remember and sure enough, the emergency exit illumination has begun to wane – like one of those glow sticks you crush to get started. You better get going.
+
+
+You grab your flashlight and gear and:";"1162211152";"Leave the heavy fire extinguisher & continue heading further into the city in the direction the train was going";"oui";0
+"22";"116221115";"Am I Undead";"You wait in the train control room, resigned to your fate and worried for some reason more that the emergency exit illumination will go out before you expire, than the fact that you are going to die and rise up as a brain eating monster.
+
+
+Yuck. You never did like the thought of eating brains, or livers, or that other disgusting stuff people eat sometimes. Hell, you can’t even swallow sushi without gaging.
+
+
+Yeah, you’ll make a real classy zombie, you think sarcastically to yourself, gagging on other peoples’ brains.
+
+
+After an hour of sitting there, you begin to feel feverish and the pain of your head wound is lost in the burning sensation that has slowly spread out from the bite in your arm to fill your whole body.
+
+
+You lull in semi-consciousness; now sorry you took that no doze. At least if you had fallen asleep and not woke up, you wouldn’t have to be going through this right now. Your mind reels, jumping chaotically between the horrifying scenes of slaughter witnessed this day and half memories of your family, that feign to come back but then evaporate just before your mind can latch onto them.
+
+
+You then feel a strange combination of burning and tightness in all your muscles and note that it is hard to move. Catching a glimpse of your watch, you see that it has been at least three hours since you were bit. Well, this is it then.
+
+
+You’re not even able to put your hand back down before you lock up in paralysis completely; sitting there against the wall of the control car looking at your watch. After a few minutes, your vision also blurs, and you can no longer read the face of your watch.
+
+
+You’re not sure how long you sit there, drifting in and out of awareness, until you suddenly notice you can read your watch again. It is 6:00am – the time you normally get up in the morning to get ready for work. In fact, you even think you can hear the beeping of a morning alarm coming from somewhere.
+
+
+Then, all at once, every muscle of your body suddenly releases, and you find yourself drenched in sweat. Your fever is gone and you no longer feel a burning throughout your body or even in your arm. Now you’re just in good old fashion pain.
+
+
+You realize the alarm on your watch is beeping and you quickly turn it off and grab your crowbar, hoping the sound hasn’t attracted any zombies to your position. Looking yourself over, you appear normal – not the walking dead like you expected. You quickly do some math in your head. No problem. You’re pretty sure zombies don’t do math. Small blessing.
+
+
+It seems darker in the control car than you remember and sure enough, the emergency exit illumination has begun to wane – like one of those glow sticks you crush to get started. You better get going.
+
+
+You grab your flashlight and gear and:";"1162211153";"Take the heavy fire extinguisher & head back the way you came in the direction the train was coming from";"oui";0
+"23";"116221115";"Am I Undead";"You wait in the train control room, resigned to your fate and worried for some reason more that the emergency exit illumination will go out before you expire, than the fact that you are going to die and rise up as a brain eating monster.
+
+
+Yuck. You never did like the thought of eating brains, or livers, or that other disgusting stuff people eat sometimes. Hell, you can’t even swallow sushi without gaging.
+
+
+Yeah, you’ll make a real classy zombie, you think sarcastically to yourself, gagging on other peoples’ brains.
+
+
+After an hour of sitting there, you begin to feel feverish and the pain of your head wound is lost in the burning sensation that has slowly spread out from the bite in your arm to fill your whole body.
+
+
+You lull in semi-consciousness; now sorry you took that no doze. At least if you had fallen asleep and not woke up, you wouldn’t have to be going through this right now. Your mind reels, jumping chaotically between the horrifying scenes of slaughter witnessed this day and half memories of your family, that feign to come back but then evaporate just before your mind can latch onto them.
+
+
+You then feel a strange combination of burning and tightness in all your muscles and note that it is hard to move. Catching a glimpse of your watch, you see that it has been at least three hours since you were bit. Well, this is it then.
+
+
+You’re not even able to put your hand back down before you lock up in paralysis completely; sitting there against the wall of the control car looking at your watch. After a few minutes, your vision also blurs, and you can no longer read the face of your watch.
+
+
+You’re not sure how long you sit there, drifting in and out of awareness, until you suddenly notice you can read your watch again. It is 6:00am – the time you normally get up in the morning to get ready for work. In fact, you even think you can hear the beeping of a morning alarm coming from somewhere.
+
+
+Then, all at once, every muscle of your body suddenly releases, and you find yourself drenched in sweat. Your fever is gone and you no longer feel a burning throughout your body or even in your arm. Now you’re just in good old fashion pain.
+
+
+You realize the alarm on your watch is beeping and you quickly turn it off and grab your crowbar, hoping the sound hasn’t attracted any zombies to your position. Looking yourself over, you appear normal – not the walking dead like you expected. You quickly do some math in your head. No problem. You’re pretty sure zombies don’t do math. Small blessing.
+
+
+It seems darker in the control car than you remember and sure enough, the emergency exit illumination has begun to wane – like one of those glow sticks you crush to get started. You better get going.
+
+
+You grab your flashlight and gear and:";"1162211154";"Leave the heavy fire extinguisher & head back the way you came in the direction the train was coming from";"non";0
+"24";"1162211154";"Head Back";"Knowing that you are now dealing with a citywide zombie epidemic, you decide that going further into the city would be suicide. You are now determined to make your way home and see if doing so will bring back your memories. You hope your family is OK. Maybe they barricaded themselves in too. You know you had a seventy-two hour emergency kit and water in the basement with the camping stuff; at least they could last a few days if they just locked-up and hunkered down.
+
+
+Hey; there ya go! It’s working already. You know something about yourself – that you have a seventy-two hour emergency kit and camping supplies. Focusing on this thought, you get a very hazy snippet of memory – a single moment from a camping trip in Maine with your wife, before the children were born. Here name is Laura; and at least in the memory, you were madly in love with her.
+
+
+You try to get more, but your head refuses to give it up and begins to pound in protest. You let it go for now and growl to yourself in frustration.
+
+
+Oh well, you finally resign; between zombies tearing you apart, infectious bites, and your own blood loss, head wound, and fatigue – it probably doesn’t matter anyway. You realize making it home on foot is a long shot. And making it home to find everyone still alive would take a miracle…
+
+
+With that, you climb out of the control car and get moving back through the jumble of death and gore. At one point along the way you hear moaning and shuffling from the darkness on the other side of the train wreck – now that you know for sure it isn’t simply an injured passenger looking for help, you set a firm grip on your crowbar and quietly sneak past on your side of the tunnel.
+
+
+At length you arrive at the last car of the trains and sit a moment to catch your breath and listen for the telltale moaning of any nearby threats. You don’t hear anything, so you get yourself back up and begin plodding into the lonely darkness of the subway tunnel.";"11622111541";"Continue on";"non";0
+"25";"11622111541";"Rails";"You cautiously move through the silence of the tunnel, listening carefully as you go. You’d rather be anywhere else in the world than here right now, and the temptation just to give up, lie down, and die is almost overwhelming. You’ve never been prone to anxiety attacks, but this shit certainly has you on the edge.
+
+
+After traveling for what you thought was at least an hour, you look at your watch and see that it hasn’t even been a full thirty minutes. Time flies when you’re having fun, you think sarcastically.
+
+
+After another five or so minutes of plodding along, you begin to think you can see a dull light in the tunnel way up ahead. Turning your own light out momentarily confirms this, as you can definitely see a dull white glow in the tunnel – maybe a station you hope.
+
+
+Whatever it is, you’re still a ways off; perhaps a quarter mile or so…";"116221115411";"Continue toward the station";"non";0
+"26";"116221115411";"Subway Station South";"Eventually you approach the opening at the end of the tunnel, where it empties into a large underground subway station. Your heart sinks as you draw near and hear the echoing din of a large mass of moaning and wailing subway passengers from within – these would be the zombies you presume. You hover in the darkness of the tunnel, carefully venturing forward just enough to get a look inside.
+
+
+A hundred and some of the former subway passengers – all trapped in the rush hour mob and unable to escape the initial outbreak – pack the area, half on the landing platform itself and half down on the tracks.
+
+
+Those on the tracks look a lot worse for wear; most torn up from the subway crash you just came from – or even other crashes farther up ahead. They moan and snarl at each other, jostling and crowding toward the edge of the loading platform, trying most ineffectually at climbing up the four foot ledge. Occasionally one does manage to get up, but is quickly pulled back down by the rest trying to climb up over its back.
+
+
+You are reminded of a bucket of crabs. You remember once seeing one in Maine – there’s another memory – you don’t need to put a lid on a full bucket of crabs; they all try to climb up over each other. The moment one gets to the top, it is collectively grabbed by the rest and dragged back down to the bottom of the bucket.
+
+
+You snap out of your reflection and focus on the area itself. The zombies don’t see you yet and you doubt they’d hear you over the clamor, unless you did something to intentionally attract their attention.
+
+
+The station is large and tiled, with a high vaulted ceiling and a large placard reading: “Glen Station”. You see that the light is coming from a large number of battery powered emergency lights along the top of the walls. You also see, just beyond the crowded landing platform, two exits. The first is a turnstile gate at your end of the platform with an escalator and set of stairs going up on the other side. The second is an open set of stairs and an escalator at the far end of the platform beyond all the zombies.
+
+
+On the track level itself are two sets of rails, both empty of any trains. Apparently, the platform side is for stopping, while the outer track is for passing through. As the trains all go the same way through the tunnels, you know there must also be another tunnel and station nearby for the trains going in the opposite direction. Typically, it would be close enough that you could buy a ticket in the terminal above the tunnels and then simply come down the right set of escalators to your platform.
+
+
+You spot a dingy red metal door in the outer wall of the tunnel opposite the landing platform. While the light’s not great, there is enough that you can make out the words on its surface: ""Railway Workers Only!""
+
+
+As you stand in the shadows of the tunnel looking over the scene, you also spot a four foot long piece of heavy planking, lying on the ground where you would exit the tunnel. You’ll have to be sure not to trip over it when you are ready to go.
+
+
+Man there are a lot of zombies in here!
+
+
+Given that, you think over your options – The open stairs and escalator at the far end of the landing platform is a no go – way too many zombies to get past even to think about it. Then there is the turnstile exit gate with the escalator and stairs on the other side. The problem with that is: to get to the stairs you’ll have to hop onto the landing platform with hundreds of zombies and make it to the turnstile exit gate and jam it before they swarm you. There is also the matter of the turnstiles being one-way. If there are zombies on the other side of it, you won’t be able to come back the way you came.
+
+
+The red door option on the other side of the tunnel would be much easier to get to, but if you’re detected, the zombies on the tracks will move after you and block your way back to the tunnels. You don’t even know if it’s locked or even goes anywhere – for all you know it may just be an access door to firefighting equipment – though you would think it would say so if that was the case…
+
+
+You could also try to sneak past the horde altogether, while they are distracted, in order to continue further down the tunnels towards the suburbs. If the rest of the stations are like this one though, then you’ll have to deal with getting out of the tunnels sooner or later…
+
+
+After weighing your odds, you:";"1162211154111";"Make a run for the turnstile gate through the zombie hoard";"oui";0
+"27";"116221115411";"Subway Station South";"Eventually you approach the opening at the end of the tunnel, where it empties into a large underground subway station. Your heart sinks as you draw near and hear the echoing din of a large mass of moaning and wailing subway passengers from within – these would be the zombies you presume. You hover in the darkness of the tunnel, carefully venturing forward just enough to get a look inside.
+
+
+A hundred and some of the former subway passengers – all trapped in the rush hour mob and unable to escape the initial outbreak – pack the area, half on the landing platform itself and half down on the tracks.
+
+
+Those on the tracks look a lot worse for wear; most torn up from the subway crash you just came from – or even other crashes farther up ahead. They moan and snarl at each other, jostling and crowding toward the edge of the loading platform, trying most ineffectually at climbing up the four foot ledge. Occasionally one does manage to get up, but is quickly pulled back down by the rest trying to climb up over its back.
+
+
+You are reminded of a bucket of crabs. You remember once seeing one in Maine – there’s another memory – you don’t need to put a lid on a full bucket of crabs; they all try to climb up over each other. The moment one gets to the top, it is collectively grabbed by the rest and dragged back down to the bottom of the bucket.
+
+
+You snap out of your reflection and focus on the area itself. The zombies don’t see you yet and you doubt they’d hear you over the clamor, unless you did something to intentionally attract their attention.
+
+
+The station is large and tiled, with a high vaulted ceiling and a large placard reading: “Glen Station”. You see that the light is coming from a large number of battery powered emergency lights along the top of the walls. You also see, just beyond the crowded landing platform, two exits. The first is a turnstile gate at your end of the platform with an escalator and set of stairs going up on the other side. The second is an open set of stairs and an escalator at the far end of the platform beyond all the zombies.
+
+
+On the track level itself are two sets of rails, both empty of any trains. Apparently, the platform side is for stopping, while the outer track is for passing through. As the trains all go the same way through the tunnels, you know there must also be another tunnel and station nearby for the trains going in the opposite direction. Typically, it would be close enough that you could buy a ticket in the terminal above the tunnels and then simply come down the right set of escalators to your platform.
+
+
+You spot a dingy red metal door in the outer wall of the tunnel opposite the landing platform. While the light’s not great, there is enough that you can make out the words on its surface: ""Railway Workers Only!""
+
+
+As you stand in the shadows of the tunnel looking over the scene, you also spot a four foot long piece of heavy planking, lying on the ground where you would exit the tunnel. You’ll have to be sure not to trip over it when you are ready to go.
+
+
+Man there are a lot of zombies in here!
+
+
+Given that, you think over your options – The open stairs and escalator at the far end of the landing platform is a no go – way too many zombies to get past even to think about it. Then there is the turnstile exit gate with the escalator and stairs on the other side. The problem with that is: to get to the stairs you’ll have to hop onto the landing platform with hundreds of zombies and make it to the turnstile exit gate and jam it before they swarm you. There is also the matter of the turnstiles being one-way. If there are zombies on the other side of it, you won’t be able to come back the way you came.
+
+
+The red door option on the other side of the tunnel would be much easier to get to, but if you’re detected, the zombies on the tracks will move after you and block your way back to the tunnels. You don’t even know if it’s locked or even goes anywhere – for all you know it may just be an access door to firefighting equipment – though you would think it would say so if that was the case…
+
+
+You could also try to sneak past the horde altogether, while they are distracted, in order to continue further down the tunnels towards the suburbs. If the rest of the stations are like this one though, then you’ll have to deal with getting out of the tunnels sooner or later…
+
+
+After weighing your odds, you:";"1162211154112";"Use the heavy plank like a battering ram to bull-rush your way through the zombie hoard to the turnstile gate";"oui";0
+"28";"116221115411";"Subway Station South";"Eventually you approach the opening at the end of the tunnel, where it empties into a large underground subway station. Your heart sinks as you draw near and hear the echoing din of a large mass of moaning and wailing subway passengers from within – these would be the zombies you presume. You hover in the darkness of the tunnel, carefully venturing forward just enough to get a look inside.
+
+
+A hundred and some of the former subway passengers – all trapped in the rush hour mob and unable to escape the initial outbreak – pack the area, half on the landing platform itself and half down on the tracks.
+
+
+Those on the tracks look a lot worse for wear; most torn up from the subway crash you just came from – or even other crashes farther up ahead. They moan and snarl at each other, jostling and crowding toward the edge of the loading platform, trying most ineffectually at climbing up the four foot ledge. Occasionally one does manage to get up, but is quickly pulled back down by the rest trying to climb up over its back.
+
+
+You are reminded of a bucket of crabs. You remember once seeing one in Maine – there’s another memory – you don’t need to put a lid on a full bucket of crabs; they all try to climb up over each other. The moment one gets to the top, it is collectively grabbed by the rest and dragged back down to the bottom of the bucket.
+
+
+You snap out of your reflection and focus on the area itself. The zombies don’t see you yet and you doubt they’d hear you over the clamor, unless you did something to intentionally attract their attention.
+
+
+The station is large and tiled, with a high vaulted ceiling and a large placard reading: “Glen Station”. You see that the light is coming from a large number of battery powered emergency lights along the top of the walls. You also see, just beyond the crowded landing platform, two exits. The first is a turnstile gate at your end of the platform with an escalator and set of stairs going up on the other side. The second is an open set of stairs and an escalator at the far end of the platform beyond all the zombies.
+
+
+On the track level itself are two sets of rails, both empty of any trains. Apparently, the platform side is for stopping, while the outer track is for passing through. As the trains all go the same way through the tunnels, you know there must also be another tunnel and station nearby for the trains going in the opposite direction. Typically, it would be close enough that you could buy a ticket in the terminal above the tunnels and then simply come down the right set of escalators to your platform.
+
+
+You spot a dingy red metal door in the outer wall of the tunnel opposite the landing platform. While the light’s not great, there is enough that you can make out the words on its surface: ""Railway Workers Only!""
+
+
+As you stand in the shadows of the tunnel looking over the scene, you also spot a four foot long piece of heavy planking, lying on the ground where you would exit the tunnel. You’ll have to be sure not to trip over it when you are ready to go.
+
+
+Man there are a lot of zombies in here!
+
+
+Given that, you think over your options – The open stairs and escalator at the far end of the landing platform is a no go – way too many zombies to get past even to think about it. Then there is the turnstile exit gate with the escalator and stairs on the other side. The problem with that is: to get to the stairs you’ll have to hop onto the landing platform with hundreds of zombies and make it to the turnstile exit gate and jam it before they swarm you. There is also the matter of the turnstiles being one-way. If there are zombies on the other side of it, you won’t be able to come back the way you came.
+
+
+The red door option on the other side of the tunnel would be much easier to get to, but if you’re detected, the zombies on the tracks will move after you and block your way back to the tunnels. You don’t even know if it’s locked or even goes anywhere – for all you know it may just be an access door to firefighting equipment – though you would think it would say so if that was the case…
+
+
+You could also try to sneak past the horde altogether, while they are distracted, in order to continue further down the tunnels towards the suburbs. If the rest of the stations are like this one though, then you’ll have to deal with getting out of the tunnels sooner or later…
+
+
+After weighing your odds, you:";"1162211154113";"Try to sneak unnoticed to the red metal door";"oui";0
+"29";"116221115411";"Subway Station South";"Eventually you approach the opening at the end of the tunnel, where it empties into a large underground subway station. Your heart sinks as you draw near and hear the echoing din of a large mass of moaning and wailing subway passengers from within – these would be the zombies you presume. You hover in the darkness of the tunnel, carefully venturing forward just enough to get a look inside.
+
+
+A hundred and some of the former subway passengers – all trapped in the rush hour mob and unable to escape the initial outbreak – pack the area, half on the landing platform itself and half down on the tracks.
+
+
+Those on the tracks look a lot worse for wear; most torn up from the subway crash you just came from – or even other crashes farther up ahead. They moan and snarl at each other, jostling and crowding toward the edge of the loading platform, trying most ineffectually at climbing up the four foot ledge. Occasionally one does manage to get up, but is quickly pulled back down by the rest trying to climb up over its back.
+
+
+You are reminded of a bucket of crabs. You remember once seeing one in Maine – there’s another memory – you don’t need to put a lid on a full bucket of crabs; they all try to climb up over each other. The moment one gets to the top, it is collectively grabbed by the rest and dragged back down to the bottom of the bucket.
+
+
+You snap out of your reflection and focus on the area itself. The zombies don’t see you yet and you doubt they’d hear you over the clamor, unless you did something to intentionally attract their attention.
+
+
+The station is large and tiled, with a high vaulted ceiling and a large placard reading: “Glen Station”. You see that the light is coming from a large number of battery powered emergency lights along the top of the walls. You also see, just beyond the crowded landing platform, two exits. The first is a turnstile gate at your end of the platform with an escalator and set of stairs going up on the other side. The second is an open set of stairs and an escalator at the far end of the platform beyond all the zombies.
+
+
+On the track level itself are two sets of rails, both empty of any trains. Apparently, the platform side is for stopping, while the outer track is for passing through. As the trains all go the same way through the tunnels, you know there must also be another tunnel and station nearby for the trains going in the opposite direction. Typically, it would be close enough that you could buy a ticket in the terminal above the tunnels and then simply come down the right set of escalators to your platform.
+
+
+You spot a dingy red metal door in the outer wall of the tunnel opposite the landing platform. While the light’s not great, there is enough that you can make out the words on its surface: ""Railway Workers Only!""
+
+
+As you stand in the shadows of the tunnel looking over the scene, you also spot a four foot long piece of heavy planking, lying on the ground where you would exit the tunnel. You’ll have to be sure not to trip over it when you are ready to go.
+
+
+Man there are a lot of zombies in here!
+
+
+Given that, you think over your options – The open stairs and escalator at the far end of the landing platform is a no go – way too many zombies to get past even to think about it. Then there is the turnstile exit gate with the escalator and stairs on the other side. The problem with that is: to get to the stairs you’ll have to hop onto the landing platform with hundreds of zombies and make it to the turnstile exit gate and jam it before they swarm you. There is also the matter of the turnstiles being one-way. If there are zombies on the other side of it, you won’t be able to come back the way you came.
+
+
+The red door option on the other side of the tunnel would be much easier to get to, but if you’re detected, the zombies on the tracks will move after you and block your way back to the tunnels. You don’t even know if it’s locked or even goes anywhere – for all you know it may just be an access door to firefighting equipment – though you would think it would say so if that was the case…
+
+
+You could also try to sneak past the horde altogether, while they are distracted, in order to continue further down the tunnels towards the suburbs. If the rest of the stations are like this one though, then you’ll have to deal with getting out of the tunnels sooner or later…
+
+
+After weighing your odds, you:";"1162211154114";"Try to sneak unnoticed through the station to the other side of the tunnel and keep on going";"non";0
+"30";"1162211154114";"Sneak Through";"Taking a breath and steeling your nerves, you move to out from the shadows and walk nonchalantly into the station and along the far wall, hoping the zombies won’t even notice you – maybe if you move slowly enough, they’ll even think you’re one of them.
+
+
+You get about halfway to the red door (and a quarter of the way to the far tunnel), when you notice that you have caught the attention of some of the zombies on the landing platform; while those on the tracks are still looking the other way, as they continue to scrabble at the platform ledge. Those that see you however, move your way and are joined by others, until they reach the edge of the landing platform. You keep going the same pace for now, not wanting to get the zombies down on the tracks alerted as well. That is when those that see you on the platform walk off the edge, falling onto the zombies crowded below. As they do and scramble back to their feet, the zombies on the ground begin to notice you too. It’s only a matter of moments before you’ll have the entire zombie horde after you!
+
+
+You pick up your pace a bit, but fight the urge to outright sprint, for fear of alerting the zombies currently looking away from you – which, for now, impede the progress of the others heading your way. By the time you get to the red door (and halfway to the other tunnel), the rest of the zombies have finally turned and the entire mass is shambling after you with hungry moans. Looking at the door briefly, you see that it has no lock, but appears shut tight.
+
+
+You could stop to try the door, but if it’s stuck or barred from the other side, the zombies will close on you while you waste your time with it.
+
+
+Or you can ignore the door and sprint for the far tunnel. Even injured, you should be able to outrun them…";"11622111541141";"Risk trying the red door";"oui";0
+"31";"1162211154114";"Sneak Through";"Taking a breath and steeling your nerves, you move to out from the shadows and walk nonchalantly into the station and along the far wall, hoping the zombies won’t even notice you – maybe if you move slowly enough, they’ll even think you’re one of them.
+
+
+You get about halfway to the red door (and a quarter of the way to the far tunnel), when you notice that you have caught the attention of some of the zombies on the landing platform; while those on the tracks are still looking the other way, as they continue to scrabble at the platform ledge. Those that see you however, move your way and are joined by others, until they reach the edge of the landing platform. You keep going the same pace for now, not wanting to get the zombies down on the tracks alerted as well. That is when those that see you on the platform walk off the edge, falling onto the zombies crowded below. As they do and scramble back to their feet, the zombies on the ground begin to notice you too. It’s only a matter of moments before you’ll have the entire zombie horde after you!
+
+
+You pick up your pace a bit, but fight the urge to outright sprint, for fear of alerting the zombies currently looking away from you – which, for now, impede the progress of the others heading your way. By the time you get to the red door (and halfway to the other tunnel), the rest of the zombies have finally turned and the entire mass is shambling after you with hungry moans. Looking at the door briefly, you see that it has no lock, but appears shut tight.
+
+
+You could stop to try the door, but if it’s stuck or barred from the other side, the zombies will close on you while you waste your time with it.
+
+
+Or you can ignore the door and sprint for the far tunnel. Even injured, you should be able to outrun them…";"11622111541142";"Ignore it and run for the far tunnel";"non";0
+"32";"11622111541142";"Keep Going";"You ignore the red door and run for the tunnel with a huge mob of flesh eating zombies following after you. As you run out of the station and into the darkness of the tunnel, you risk looking back to see how close behind the horde is and see that you are easily outpacing them. You keep going for a few minutes until you can neither see nor hear them; and then slow to quick walk so you can catch your breath.
+
+
+After hurrying alone down the dark tunnel for another ten minutes, you’re pretty sure you’ve lost the zombie horde, but figure they’ll still keep coming in this direction anyway. Even though you’re tired from the exertion, you can’t stop. You have to get out of the tunnels, or the zombies behind you will catch up eventually; or worse – trap you between another large horde somewhere in the tunnels up ahead.
+
+
+After another thirty minutes, you finally see light up in the tunnel ahead – another station. Cautiously approaching, you once more hear the clamor of a large group of zombies. You also see that a subway train is actually stopped on the loading side of the station, flush with the platform ahead. Careful not to reveal your presence to the zombies you get closer and can see that the station (Freedom Station) is much the same as the previous one – two tracks, vaulted ceiling, emergency lighting, landing platform, another red door opposite the platform, and (while you can’t see them from here) entry and exit stairs somewhere beyond the platform itself.
+
+
+The big difference here is that there are no zombies on the tracks. The train itself runs the length of the platform and blocks any entry onto the tracks. The doors to the train are only open on the platform side and the zombies (well over a hundred again) moan and mill about freely between the platform and subway cars. The only way you could get onto the platform from here would be to pry open a door on the outside of the train, then climb in and walk through to the platform side. That would be throwing your life away, so you don’t even consider it an option.
+
+
+At least here, you have free access to the red metal door in the wall – or you can roll the dice and keep on going down the tracks – though who knows what you’ll run into or how far behind you that other zombie horde is at this exact moment…";"116221115411421";"Check out the red metal door";"non";0
+"33";"11622111541142";"Keep Going";"You ignore the red door and run for the tunnel with a huge mob of flesh eating zombies following after you. As you run out of the station and into the darkness of the tunnel, you risk looking back to see how close behind the horde is and see that you are easily outpacing them. You keep going for a few minutes until you can neither see nor hear them; and then slow to quick walk so you can catch your breath.
+
+
+After hurrying alone down the dark tunnel for another ten minutes, you’re pretty sure you’ve lost the zombie horde, but figure they’ll still keep coming in this direction anyway. Even though you’re tired from the exertion, you can’t stop. You have to get out of the tunnels, or the zombies behind you will catch up eventually; or worse – trap you between another large horde somewhere in the tunnels up ahead.
+
+
+After another thirty minutes, you finally see light up in the tunnel ahead – another station. Cautiously approaching, you once more hear the clamor of a large group of zombies. You also see that a subway train is actually stopped on the loading side of the station, flush with the platform ahead. Careful not to reveal your presence to the zombies you get closer and can see that the station (Freedom Station) is much the same as the previous one – two tracks, vaulted ceiling, emergency lighting, landing platform, another red door opposite the platform, and (while you can’t see them from here) entry and exit stairs somewhere beyond the platform itself.
+
+
+The big difference here is that there are no zombies on the tracks. The train itself runs the length of the platform and blocks any entry onto the tracks. The doors to the train are only open on the platform side and the zombies (well over a hundred again) moan and mill about freely between the platform and subway cars. The only way you could get onto the platform from here would be to pry open a door on the outside of the train, then climb in and walk through to the platform side. That would be throwing your life away, so you don’t even consider it an option.
+
+
+At least here, you have free access to the red metal door in the wall – or you can roll the dice and keep on going down the tracks – though who knows what you’ll run into or how far behind you that other zombie horde is at this exact moment…";"116221115411422";"Skip it and keep going down the tracks";"non";0
+"34";"116221115411422";"Dead End";"You ignore the red door and head for the tunnel across the station. As you do, you notice that you have caught the attention of a number of zombies on the train itself. They wail and mourn, clamoring to the windows and doors, scratching at the glass and trying to claw their way through. You’re pretty sure that they’re not going to get through simply by scratching and clawing, but their activity quickly draws the attention of the rest – and by the time you are three quarters of the way to the far tunnel, the press of zombies trying to get through the train actually pushed the front-most zombies right on through the glass.
+
+
+Suddenly zombies are pouring out the broken windows of the train and onto the tracks in a number of disheveled heaps. You quicken your pace and then all out run; as the zombies right themselves and eagerly stagger after you. As you flee the area, you risk looking back to see how close behind the horde is and see that you are easily outpacing them. You keep running until you can neither see nor hear them in the tunnel behind you and then slow to quick jog. You are able to keep the pace for a full ten minutes before finally needing to stop and can catch your breath.
+
+
+As you stand there sucking air, you notice that it’s hard to breathe again; and not just because you’re winded. The air seems stale and almost suffocatingly thin. Cautiously, you continue forward again – using your sense of smell now as well as sight and sound. In the air you smell something akin to the exhaust of a diesel engine – which is odd, as all the trains you ride on are electric. Shining the beam of your flashlight up, you see rolling black smoke drifting across the ceiling of the tunnel.
+
+
+This isn’t good you realize, knowing that too much smoke in a closed place like the tunnels could be just as deadly as the zombies themselves. As you stand there looking up and trying to decide what to do, you hear the din of the ravenous zombie horde echoing up from the darkness behind you – the damn things are still making their way toward you.
+
+
+With little choice, you hurry on ahead, straining to see light down the tunnel that might indicate a fire or other source of the smoke. As you round a bend in the tracks, you see billowing black smoke filling the entire passage ahead. And while you can’t see any light through the smoke, you do hear the roar of a large fire nearby and can feel the heat intensifying the closer you get.
+
+
+You stop, unsure what to do next; searching the area for anything that might be of help and knowing that things have gone from bad to worse. After a few minutes without any luck, you hear and see the zombie horde appear around the bend behind you. Upon seeing you, they all animate even more, lurching forward into a jerky trot – arms extended and all.
+
+
+Deciding that you’re still not ready to be torn to pieces by zombies, you take a big breath and hold it as you plunge into the dark smoke. Stumbling forward, you are completely blind – your light unable to cut through the haze and your eyes stinging so much from the smoke that you can do no more than close them. After a few yards you bump into the back of some large structure blocking the way. Feeling the hot metallic surface with your hands, you realize that it’s the back end of a subway car – another wreck – only this one is also on fire. You try to go around to the right, but the car is smashed up against the side of the tunnel there. Moving to the left, you have to draw back suddenly as you are scorched by an unseen inferno. You then try going under and find that you can, but you’ve only crawled a little way before you run out of air and have to gasp for breath. All you get however is searing hot smoke. You begin coughing uncontrollably and curl up into the fetal position before passing out entirely.
+
+
+A moment later and you’re standing on the tracks near your body in some sort of surreal out-of-body experience, only now you’re able to see through the smoke and can see the zombies pushing and shoving at the edge of the smoke – some basic instinct for self-preservation keeping them from following you into the fire. Looking across the tunnel into the burning wreck of the subway train, you see that strange black shadowy shape from your unconscious dreams standing unharmed in the flames. You wonder what it is and what it wants with you, but that is another story…
+
+
+END";"1162211154114221";"See How Well You Did (you can still back-page afterwards if you like)";"non";0
+"35";"1162211154114221";"How You Did";"Here’s a rundown of how you did –
+
+
+You Killed 2 Zombies
+
+You Killed 0 Drooler Zombies
+
+You Killed 0 Bloater Zombies
+
+You Killed 0 Ghouls
+
+You Killed 0 Banshees
+
+You Killed 0 Hell Hounds
+
+You Killed 0 Cannibal Gaunt Zombies
+
+
+You Killed 0 People
+
+You Saved 0 People (including yourself, unless you died)
+
+
+You were eaten by 0 Zombies
+
+
+Your Overall Score: 2050
+
+
+(You played through 15 of 2,131 Pages and have proven to be Zombie Bait)";"11622111541142211";"End Game and Leave Comments";"non";0
+"36";"116221115411421";"Red Door Room";"Deciding to go check out the red door, you nonchalantly walk up to it along the outer wall of the tunnel. When you arrive, you see that the door has no lock, but appears to be shut tight. Pulling on the handle, you find that it’s stuck fast – or barred from the other side. Looking over your shoulder, you see that you have also caught the attention of a number of zombies on the train itself. They wail and mourn, clamoring to the windows and doors, scratching at the glass and trying to claw their way through. You’re pretty sure that they’re not going to get through simply by scratching and clawing, but their activity does appear to be drawing the attention of the rest…
+
+
+You take a minute to get a better grip on the door and use your foot to push against the frame while pulling on the door. To your great relief, the door pops open with a rusty creak. Just then, you hear the crash of breaking glass behind you.
+
+
+Looking, you see that the press of zombies trying to get through the train has actually pushed the front-most zombies right on through the glass. Suddenly zombies are pouring out the broken windows of the train and onto the tracks in a number of disheveled heaps. You hurry through the red metal door and pull it shut behind you, as the zombies right themselves and eagerly stagger after you.
+
+
+You hear the zombies arrive at the door and begin pulling and scratching at its surface. As of now, you are obliged to stand there holding the door shut against the pulling zombies on the other side. Taking a quick look around, you see that you are in the space between the north and south bound subway tunnels. A similar red door is set in the wall opposite you and reads: “South Tunnel”, while the door you are currently holding shut reads: “North Tunnel”. You can guess that the south station and subway platform is on the other side of the opposite door – and probably just as zombie infested as the north station was.
+
+
+Also in the area is a large collection of unknown machinery and a giant spool of old-fashion canvas fire hose. You don’t see anywhere to hook the hose up to (and it’s far too brittle to use anymore), but do notice a fire axe on a wall not too far from you next to a large fire extinguisher. Looking to the far end of the area, you see a green illuminated ‘exit’ sign over an open doorway, with a set of stairs leading up beyond.
+
+
+The first thing you have to do though is get this door secure. You see that you could thread something through the door handle to bar it crudely from the inside. You note a long heavy crowbar against some machinery within easy reach, or you could use the fire axe in a similar fashion (you think you can stretch far enough to reach it without letting go of your current hold on the door handle).
+
+
+Or you could just let go of the door and dash for the stairs.";"1162211154114211";"Use the crowbar to secure the door";"non";0
+"37";"116221115411421";"Red Door Room";"Deciding to go check out the red door, you nonchalantly walk up to it along the outer wall of the tunnel. When you arrive, you see that the door has no lock, but appears to be shut tight. Pulling on the handle, you find that it’s stuck fast – or barred from the other side. Looking over your shoulder, you see that you have also caught the attention of a number of zombies on the train itself. They wail and mourn, clamoring to the windows and doors, scratching at the glass and trying to claw their way through. You’re pretty sure that they’re not going to get through simply by scratching and clawing, but their activity does appear to be drawing the attention of the rest…
+
+
+You take a minute to get a better grip on the door and use your foot to push against the frame while pulling on the door. To your great relief, the door pops open with a rusty creak. Just then, you hear the crash of breaking glass behind you.
+
+
+Looking, you see that the press of zombies trying to get through the train has actually pushed the front-most zombies right on through the glass. Suddenly zombies are pouring out the broken windows of the train and onto the tracks in a number of disheveled heaps. You hurry through the red metal door and pull it shut behind you, as the zombies right themselves and eagerly stagger after you.
+
+
+You hear the zombies arrive at the door and begin pulling and scratching at its surface. As of now, you are obliged to stand there holding the door shut against the pulling zombies on the other side. Taking a quick look around, you see that you are in the space between the north and south bound subway tunnels. A similar red door is set in the wall opposite you and reads: “South Tunnel”, while the door you are currently holding shut reads: “North Tunnel”. You can guess that the south station and subway platform is on the other side of the opposite door – and probably just as zombie infested as the north station was.
+
+
+Also in the area is a large collection of unknown machinery and a giant spool of old-fashion canvas fire hose. You don’t see anywhere to hook the hose up to (and it’s far too brittle to use anymore), but do notice a fire axe on a wall not too far from you next to a large fire extinguisher. Looking to the far end of the area, you see a green illuminated ‘exit’ sign over an open doorway, with a set of stairs leading up beyond.
+
+
+The first thing you have to do though is get this door secure. You see that you could thread something through the door handle to bar it crudely from the inside. You note a long heavy crowbar against some machinery within easy reach, or you could use the fire axe in a similar fashion (you think you can stretch far enough to reach it without letting go of your current hold on the door handle).
+
+
+Or you could just let go of the door and dash for the stairs.";"1162211154114212";"Secure the door with the fire axe";"non";0
+"38";"116221115411421";"Red Door Room";"Deciding to go check out the red door, you nonchalantly walk up to it along the outer wall of the tunnel. When you arrive, you see that the door has no lock, but appears to be shut tight. Pulling on the handle, you find that it’s stuck fast – or barred from the other side. Looking over your shoulder, you see that you have also caught the attention of a number of zombies on the train itself. They wail and mourn, clamoring to the windows and doors, scratching at the glass and trying to claw their way through. You’re pretty sure that they’re not going to get through simply by scratching and clawing, but their activity does appear to be drawing the attention of the rest…
+
+
+You take a minute to get a better grip on the door and use your foot to push against the frame while pulling on the door. To your great relief, the door pops open with a rusty creak. Just then, you hear the crash of breaking glass behind you.
+
+
+Looking, you see that the press of zombies trying to get through the train has actually pushed the front-most zombies right on through the glass. Suddenly zombies are pouring out the broken windows of the train and onto the tracks in a number of disheveled heaps. You hurry through the red metal door and pull it shut behind you, as the zombies right themselves and eagerly stagger after you.
+
+
+You hear the zombies arrive at the door and begin pulling and scratching at its surface. As of now, you are obliged to stand there holding the door shut against the pulling zombies on the other side. Taking a quick look around, you see that you are in the space between the north and south bound subway tunnels. A similar red door is set in the wall opposite you and reads: “South Tunnel”, while the door you are currently holding shut reads: “North Tunnel”. You can guess that the south station and subway platform is on the other side of the opposite door – and probably just as zombie infested as the north station was.
+
+
+Also in the area is a large collection of unknown machinery and a giant spool of old-fashion canvas fire hose. You don’t see anywhere to hook the hose up to (and it’s far too brittle to use anymore), but do notice a fire axe on a wall not too far from you next to a large fire extinguisher. Looking to the far end of the area, you see a green illuminated ‘exit’ sign over an open doorway, with a set of stairs leading up beyond.
+
+
+The first thing you have to do though is get this door secure. You see that you could thread something through the door handle to bar it crudely from the inside. You note a long heavy crowbar against some machinery within easy reach, or you could use the fire axe in a similar fashion (you think you can stretch far enough to reach it without letting go of your current hold on the door handle).
+
+
+Or you could just let go of the door and dash for the stairs.";"1162211154114213";"Make a break for it";"non";0
+"39";"1162211154114213";"Make a Break";"With the zombies on the other side literally pulling the door open and you out with it, you let go and bolt in panic toward the exit stairs. You see them immediately push and fight their way into the area, quickly catching your scent and lumbering after you.
+
+
+The stairwell itself is dark, the emergency lighting here beginning to wane. You rush up the stairs climb at least sixty feet to a landing at the top. Light shines into the area at the top of the stairs through a small window in a closed steel door – the only access to the stairwell. You move to the door and see that it is a security door, locked from the other side with a pushpin key lock. You can open it freely from here on the inside, but you’ll need the four pin key-code to open it again from the outside should you leave.
+
+
+Of course that isn’t even going to be a consideration – you can hear the undead horde even now, climbing up rapidly up the stairs.
+
+
+Opening the security door, you see a long corridor on the other side, lit by emergency lighting. A number of office doors, some open and some closed, line each side – while what’s left of two mangled corpses litter the hallway in a splattering of gore. As you look, you see a zombie stumble out of one of the office doors ahead of you, where it wheels round and snarls at you ravenously.
+
+
+It’s one zombie ahead of you and hundreds behind. You don’t even have to think about it, and rush the lone zombie, executing a flying sidekick to its chest. It bowls over and you keep going, down to the far end of the corridor, where it ends at a short hallway going to the right and left.
+
+
+You have only a moment to consider your options, before the zombie you knocked over gets back up, and is joined by a stream of howling undead pouring into the corridor from the stairwell.
+
+
+To your right the hallway goes about fifteen feet and ends at another push-pin security door. This one however, is broken open, hanging off the bottom hinge, and bent outward slightly.
+
+
+To your left the hallway goes another fifteen feet, to a set of private restrooms (men and women’s) at the far end.";"11622111541142131";"Run for the broken security door";"non";0
+"40";"1162211154114213";"Make a Break";"With the zombies on the other side literally pulling the door open and you out with it, you let go and bolt in panic toward the exit stairs. You see them immediately push and fight their way into the area, quickly catching your scent and lumbering after you.
+
+
+The stairwell itself is dark, the emergency lighting here beginning to wane. You rush up the stairs climb at least sixty feet to a landing at the top. Light shines into the area at the top of the stairs through a small window in a closed steel door – the only access to the stairwell. You move to the door and see that it is a security door, locked from the other side with a pushpin key lock. You can open it freely from here on the inside, but you’ll need the four pin key-code to open it again from the outside should you leave.
+
+
+Of course that isn’t even going to be a consideration – you can hear the undead horde even now, climbing up rapidly up the stairs.
+
+
+Opening the security door, you see a long corridor on the other side, lit by emergency lighting. A number of office doors, some open and some closed, line each side – while what’s left of two mangled corpses litter the hallway in a splattering of gore. As you look, you see a zombie stumble out of one of the office doors ahead of you, where it wheels round and snarls at you ravenously.
+
+
+It’s one zombie ahead of you and hundreds behind. You don’t even have to think about it, and rush the lone zombie, executing a flying sidekick to its chest. It bowls over and you keep going, down to the far end of the corridor, where it ends at a short hallway going to the right and left.
+
+
+You have only a moment to consider your options, before the zombie you knocked over gets back up, and is joined by a stream of howling undead pouring into the corridor from the stairwell.
+
+
+To your right the hallway goes about fifteen feet and ends at another push-pin security door. This one however, is broken open, hanging off the bottom hinge, and bent outward slightly.
+
+
+To your left the hallway goes another fifteen feet, to a set of private restrooms (men and women’s) at the far end.";"11622111541142132";"Run to the end of the hallway into a restroom and lock yourself in until the zombies wander from the area";"non";0
+"41";"11622111541142132";"The Restrooms";"You hurry to the end of the hallway and try one of the restroom doors, but it is locked. Without a moment to lose, you try the other and it opens into a small private bathroom. You enter, then close the door behind you and lock it.
+
+
+You can hear the zombies move into the area on the other side of the door, snarling and wailing as they look for you. After about an hour, they seem to calm back down – but you still hear them shuffling about outside. You also think for a moment that you can hear the sound of a woman weeping in the bathroom adjacent you – maybe that’s why the door was locked. You want to call out to be sure, but don’t want to alert the zombies outside to your presence.
+
+
+After many more hours of waiting, the sound of weeping has stopped, but the zombies have not left the area. You get down low and look out under the crack between the door and floor of the restroom – and can see the stumbling feet of three or four zombies in the short hallway. Others then wander in from the broken security door at the far end, opposite the restrooms. Some also move into the corridor leading off the short hallway. Then even others come back into the area from that direction. Damn; the zombies have taken up residence in the office area!
+
+
+You continue to wait – looking for anyway to escape. You even check the vents in the ceiling, but they are way too narrow to climb into. At least you have a supply of water; though you don’t know how long you have before it goes bad. In citywide disasters, the water supply almost inevitably gets contaminated.
+
+
+As you are finishing up your search, you happen to spot an odd message written on one of the walls in the toilet stall. It reads: “For a good time BYOB, grave shift, IBIA”
+
+
+At length, you begin to realize just how exhausted you really are. Your muscles all feel tight and you’re incredibly weak and tired – like your wounds and all this exertion are finally hitting you all at once. You can literally feel your mind and body shutting down as you sit there. You start yourself awake, knowing that falling asleep now, with a major head wound and all this blood loss, still poses the risk of going into a coma or even dying in your sleep. But then you don’t seem to have a choice…";"116221115411421321";"Sleep";"non";0
+"42";"116221115411421321";"Undead Dreams";"As you start to drift off into unconsciousness, you notice that your recent zombie bite is now burning with an odd tingling sensation.
+
+
+You begin to wonder if this is the zombie contagion at work – are you really going to die and rise up as a brain eating monster?
+
+
+Yuck. You never did like the thought of eating brains, or livers, or that other disgusting stuff people eat sometimes. Hell, you can’t even swallow sushi without gaging.
+
+
+Yeah, you’ll make a real classy zombie, you think sarcastically to yourself, gagging on other peoples’ brains.
+
+
+Sitting there in your thoughts, you slowly drift off to sleep. The next thing you know, you’re waking with a start from unconsciousness. You feel feverish, while the pain of your head wound and the tightness of your muscles is lost in the burning sensation that has slowly spread out from where you were bit by zombies to fill your whole body.
+
+
+You lull in semi-consciousness and your mind reels, jumping chaotically between the horrifying scenes of slaughter witnessed this day and half memories of your family, that feign to come back but then evaporate just before your mind can latch onto them.
+
+
+You then realize that the burning tightness in all your muscles has progressed to complete paralysis – you can’t even move your fingers or close your eyes. You lay there completely rigid, unable to move, until even your vision blurs.
+
+
+You’re not sure how long you lay there, drifting in and out of awareness, until you suddenly notice you can see clearly again and blink. You also hear what you think is the beeping of a morning alarm coming from somewhere. Then, all at once, every muscle of your body suddenly releases, and you find yourself drenched in sweat. Your fever is gone and you no longer feel a burning throughout your body or even where you were bit by zombies. Now you’re just in good old fashion pain.
+
+
+You look at your watch and see that it’s 6:00am – the time you normally get up in the morning to get ready for work. You then realize the alarm on your watch is beeping and you quickly turn it off. Getting up, you are groggy and ache all over, especially your wounds. They actually hurt more now than they did yesterday. You wonder if that has something to do with running on adrenalin and panic last night.
+
+
+Looking yourself over, you appear normal – not the walking dead like you expected. You quickly do some math in your head. No problem. You’re pretty sure zombies don’t do math. Small blessing.
+
+
+You then find yourself thinking about your wife Laura and two daughters, ten year old Jessica and seven year old Kate. That is when you realize that your memory is starting to return. You suddenly remember everything about your life up to a week ago last Thursday. For whatever reason, you’re still missing the last little bit.
+
+
+Who are you anyway?
+
+
+You are Greg Bradley. You live in the suburbs with your wife, girls, and one cat; and work in the city as an accountant for the Morgan Corporation – an advertising firm. Monday through Friday you catch a commuter train in the suburbs to Fairmont Station in the city, where you hop on the Green Subway Line to the Summit Tower Station. Your commute takes about forty-five minutes. On weekends you like to just be with your family, but do go mountain-biking a couple of times a year with friends you’ve had since college. You and your wife used to go camping quite frequently, but that sort of dropped off after your first daughter was born. Your life is nothing special, but for a moment you treasure each memory – having until just recently had none to treasure at all.
+
+
+You were an only child of parents who divorced when you were young. You went with your mother at that time; who is still alive, but now lives in a New England nursing home with Alzheimer’s. Your father was an alcoholic and died of liver failure. Your wife’s parents are both still alive, still married, and live in sunny Arizona. They fly you and the family out to their ranch every Christmas, along with the rest of their own family. Your wife has many brothers and sisters, but you really don’t interact with them very much (except over the holiday) and don’t even know all of their names. And that has nothing to do with you losing your memory; you just never cared enough to make the effort.
+
+
+Yes, it has all come back except for a missing week. The last thing you remember before waking up in the subway tunnel was leaving your office on Thursday to get on the elevator on the 24th floor of the Summit Tower. You take the keys out of your pocket and look at your elevator key – the one marked ‘ST 24’. It’s for the express elevator that goes straight to the Morgan Corporation offices.
+
+
+You then think about your situation. You can still hear zombies lurking about outside the bathroom door – it doesn’t look like you’re ever going to be able to get out of this restroom.
+
+
+In spite of your dire circumstance, you worry more about the fate of your family than yourself. Your wife would be home – hopefully barricaded in, while your girls would have been on the bus to school at the time of the outbreak. Damn! You hope they at least made it to the school, knowing that in such an emergency the school would initiate a lockdown. Maybe they are safe inside waiting for help. You hope so.
+
+
+After another day of waiting in the lonely restroom with no sign of the zombies clearing out, you finally can’t take it anymore. You cross yourself and unlock the restroom door, then burst out amongst the zombie horde, like Butch Cassidy and the Sundance Kid at their final showdown. You even manage to take a few of the bastards out, through the sheer savagery of your attack, before you are finally overwhelmed and torn apart.
+
+
+A moment later and you’re standing near your own remains in some sort of surreal out-of-body experience, looking at the blood splattered walls of the hallway and watching the zombies spread your entrails out amongst themselves. Looking toward your former restroom sanctuary, you see that strange black shadowy shape from your unconscious dreams lurking nearby. You wonder what it is and what it wants with you, but that is another story…
+
+
+END";"1162211154114213211";"See How Well You Did (you can still back-page afterwards if you like)";"non";0
+"43";"1162211154114213211";"How You Did";"Here’s a rundown of how you did –
+
+
+You Killed 5 Zombies
+
+You Killed 0 Drooler Zombies
+
+You Killed 0 Bloater Zombies
+
+You Killed 0 Ghouls
+
+You Killed 0 Banshees
+
+You Killed 0 Hell Hounds
+
+You Killed 0 Cannibal Gaunt Zombies
+
+
+You Killed 0 People
+
+You Saved 0 People (including yourself, unless you died)
+
+
+You were eaten by 213 Zombies
+
+
+Your Overall Score: 2600
+
+
+(You played through 18 of 2,131 Pages and have proven to be Zombie Bait)";"11622111541142132111";"End Game and Leave Comments";"non";0
+"44";"11622111541142131";"Swamped";"Rushing to the broken security door, you step through, and into the subway’s main corridor. This is the wide concrete and tile entryway into the subway itself; and you can actually see the exit to your right, beyond a bank of narrow token-operated turnstiles. Unfortunately, a huge mass of zombies crowd the area – both in front of the turnstiles and on the other side, where the tunnel itself simply opens without walls to the outside. You stifle a gag, as the smell of blood and death is overpowering here. Looking at the floor of the main corridor, you shudder to see hundreds of ripped open and dismembered bodies lying in sticky footprint-tracked pools of maggot and fly infested blood. You force yourself to ignore the nauseating massacre and take in the more pertinent details of the scene.
+
+
+Between you and the exit – about fifty feet away – is set of opposing stairs. The signs above the stairways read: “North Platform” and “Exit Only” respectively. You know they would take you back down to the subway’s zombie infested northbound platform – from whence you just recently escaped.
+
+
+To your left, the subway’s main corridor goes another fifty or so feet and ends at another set of opposing stairs, where a much smaller group of ten or twelve zombies mill about. The signs above these stairways read: “South Platform” and “Exit Only”. These would take you down to the subway’s southbound platform – no doubt just as zombie infested as the north platform was.
+
+
+Directly across the main corridor from you are two sets of doors. The first door is a security door; closed and locked with a pushpin key lock, and reads: “Security Office” on the front. Next to the door itself is a huge smashed out window – creating a six foot wide, four foot high, opening into the security area beyond. The bloody body of a security guard hangs out of the window frame, the back half of his head apparently blown out from a self-inflicted gunshot wound. Below the window frame is a scattering of broken glass and a bloody pile of corpses – some you note with huge holes in their heads as well. You also think you can see the pistol the guard must have used to blow his brains out, lying in the gore. Inside the security room itself, you can see at least three zombies on the other side of the open window frame, idling inside amid a toppled collection of broken and dead security monitors.
+
+
+The second set of doors, about thirty feet further down the tunnel from the security office, are the doors to the men and women’s restrooms.
+
+
+There is nothing you can do but run across the main corridor to the gun lying in the slaughter. As you do, you hear a loud clamor of wails and wheezing snarls from the massive horde of walking dead jammed up at the at the turnstiles. They have noticed your movement and fall forward toward you in a sudden jerky run.
+
+
+Looking toward the smaller group of ten to twelve zombies at the other end of the corridor, you see that they too have all seen you and are now coming at you as well – lumbering forward with a clumsy gait.
+
+
+And of course, you have a steady stream of zombies pouring into the main corridor behind you from the hallway off the stairwell corridor.
+
+
+Yep; you’re boned.
+
+
+In desperation, you grab up the weapon from the pile of death. It’s a 9mm semi-automatic handgun with the slide back. You see that the safety is still off and chamber a round to take a shot at the closing zombies. Instead of a bang, you get a loud hollow click – empty. Damn; the security guard seems to have saved the last round for himself!
+
+
+Knowing that your only option now, is to make a break for the restrooms, you hope there is a window or vent or something in there you can use to escape.
+
+
+Bursting into the men’s room (it was the closer of the two), your heart sinks and you fall to your knees in defeat. Not only are there no windows or vents accessible here, but the area is filled with more of the godforsaken walking dead – at least six of them. You don’t even care when they scurry forward and begin to tear into you, as the horde of hungry zombies behind you crashes upon you like a massive wave of teeth and claws. Your body is ripped asunder before you can even get out a scream.
+
+
+A moment later and you’re standing near your own remains in some sort of surreal out-of-body experience, looking at the blood splattered bathroom tiles and watching the zombies spread your entrails out amongst themselves. Looking at the back of the restroom, you see that strange black shadowy shape from your unconscious dreams lurking nearby. You wonder what it is and what it wants with you, but that is another story…
+
+
+END";"116221115411421311";"See How Well You Did (you can still back-page afterwards if you like)";"non";0
+"45";"116221115411421311";"How You Did";"Here’s a rundown of how you did –
+
+
+You Killed 2 Zombies
+
+You Killed 0 Drooler Zombies
+
+You Killed 0 Bloater Zombies
+
+You Killed 0 Ghouls
+
+You Killed 0 Banshees
+
+You Killed 0 Hell Hounds
+
+You Killed 0 Cannibal Gaunt Zombies
+
+
+You Killed 0 People
+
+You Saved 0 People (including yourself, unless you died)
+
+
+You were eaten by 390 Zombies
+
+
+Your Overall Score: 2450
+
+
+(You played through 17 of 2,131 Pages and have proven to be Zombie Bait)";"1162211154114213111";"End Game and Leave Comments";"non";0
+"46";"1162211154114211";"Crowbar";"You bar the door with the crowbar and cautiously step away from it after you’re sure that it will hold.
+
+
+It occurs to you to secure the other door as well, but you have a moment to look around and find some lengths of old iron piping behind the machinery. Taking two lengths of it, you not only secure the opposite door, but are able to swap out the crowbar at the first door with the iron piping – giving you the option of taking the crowbar with you if you want.
+
+
+Now that you have both doors barred from this side, you don’t have to worry about the zombies coming in through them. That still leaves the open doorway and stairs leading up however – who knows how many zombies are at the top of those stairs. As that is currently your only way out, it occurs to you to scout up the stairs first before spending any length of time down here.
+
+
+You also take a moment to weigh the option of carrying a crowbar versus fire axe. Both are useful, but heavy, and you don’t want to get loaded down with too much – as you’re already fatigued and want to be able to move fast when you have to. The crowbar offers a little more utility than the fire axe, but has less reach. You’re pretty sure however, that as a weapon the fire axe will do more damage, but you can also envision it getting stuck in some zombie’s skull if you’re not careful.
+
+
+Given that, you:";"11622111541142111";"Choose the fire axe and go scout the stairs with the option of returning here if it’s secure";"oui";0
+"47";"1162211154114211";"Crowbar";"You bar the door with the crowbar and cautiously step away from it after you’re sure that it will hold.
+
+
+It occurs to you to secure the other door as well, but you have a moment to look around and find some lengths of old iron piping behind the machinery. Taking two lengths of it, you not only secure the opposite door, but are able to swap out the crowbar at the first door with the iron piping – giving you the option of taking the crowbar with you if you want.
+
+
+Now that you have both doors barred from this side, you don’t have to worry about the zombies coming in through them. That still leaves the open doorway and stairs leading up however – who knows how many zombies are at the top of those stairs. As that is currently your only way out, it occurs to you to scout up the stairs first before spending any length of time down here.
+
+
+You also take a moment to weigh the option of carrying a crowbar versus fire axe. Both are useful, but heavy, and you don’t want to get loaded down with too much – as you’re already fatigued and want to be able to move fast when you have to. The crowbar offers a little more utility than the fire axe, but has less reach. You’re pretty sure however, that as a weapon the fire axe will do more damage, but you can also envision it getting stuck in some zombie’s skull if you’re not careful.
+
+
+Given that, you:";"11622111541142112";"Choose the crowbar and scout";"oui";0
+"48";"1162211154114211";"Crowbar";"You bar the door with the crowbar and cautiously step away from it after you’re sure that it will hold.
+
+
+It occurs to you to secure the other door as well, but you have a moment to look around and find some lengths of old iron piping behind the machinery. Taking two lengths of it, you not only secure the opposite door, but are able to swap out the crowbar at the first door with the iron piping – giving you the option of taking the crowbar with you if you want.
+
+
+Now that you have both doors barred from this side, you don’t have to worry about the zombies coming in through them. That still leaves the open doorway and stairs leading up however – who knows how many zombies are at the top of those stairs. As that is currently your only way out, it occurs to you to scout up the stairs first before spending any length of time down here.
+
+
+You also take a moment to weigh the option of carrying a crowbar versus fire axe. Both are useful, but heavy, and you don’t want to get loaded down with too much – as you’re already fatigued and want to be able to move fast when you have to. The crowbar offers a little more utility than the fire axe, but has less reach. You’re pretty sure however, that as a weapon the fire axe will do more damage, but you can also envision it getting stuck in some zombie’s skull if you’re not careful.
+
+
+Given that, you:";"11622111541142113";"Choose the fire axe and search the room you are in now, before heading up the stairs";"oui";0
+"49";"1162211154114211";"Crowbar";"You bar the door with the crowbar and cautiously step away from it after you’re sure that it will hold.
+
+
+It occurs to you to secure the other door as well, but you have a moment to look around and find some lengths of old iron piping behind the machinery. Taking two lengths of it, you not only secure the opposite door, but are able to swap out the crowbar at the first door with the iron piping – giving you the option of taking the crowbar with you if you want.
+
+
+Now that you have both doors barred from this side, you don’t have to worry about the zombies coming in through them. That still leaves the open doorway and stairs leading up however – who knows how many zombies are at the top of those stairs. As that is currently your only way out, it occurs to you to scout up the stairs first before spending any length of time down here.
+
+
+You also take a moment to weigh the option of carrying a crowbar versus fire axe. Both are useful, but heavy, and you don’t want to get loaded down with too much – as you’re already fatigued and want to be able to move fast when you have to. The crowbar offers a little more utility than the fire axe, but has less reach. You’re pretty sure however, that as a weapon the fire axe will do more damage, but you can also envision it getting stuck in some zombie’s skull if you’re not careful.
+
+
+Given that, you:";"11622111541142114";"Choose the crowbar and search";"non";0
+"50";"11622111541142114";"Ready";"Taking a look around, you find some items of potential use. The first thing is a working deep sink along one wall. You know that the water in the lines can become contaminated in a citywide disaster, but you figure the water this far down is probably still safe. You take the risk and gulp down the rusty tasting water until you’re filled. Then after splashing some on your face to wake yourself up more fully, you find a hundred foot coil of three-quarter inch hemp rope on a pile of old tarps.
+
+
+The rope is a little heavy, but you find that you can easily carry the coil across your shoulder and decide that it will be worth having. Most of the tarps are too big and brittle from age to be of use, but you do find a smaller, eight by ten foot, plastic tarp under the pile in good condition and are able to fold it up small enough to take with you. You also find a relatively clean section of canvas tarp and tear some strips out of it to use as bandages for your wounds. You consider cleaning your head wound in the sink, but figure the dried mat of blood is probably the only thing keeping you from bleeding to death and decide to leave it alone, except to wrap it a little more with a strip of canvas.
+
+
+Finally, you discover an old vintage Pepsi machine in the corner. It looks like something out of the seventies and has no soda in it, but you do find three empty Pepsi bottles on the floor nearby – the old kind with extra thick glass. Taking the bottles, you fill them with water and cork them with balled up strips of tarping.
+
+
+Looking at the heavy fire extinguisher on the wall (and all the rest of the gear you want to carry), you decide that it really isn’t worth lugging and leave it.
+
+
+Checking the barred doors again, you no longer hear any zombies trying to claw their way in and give a sigh of relief – they must have forgotten what they were after and wandered away.
+
+
+Gathering your gear, you ready your weapon and head cautiously up the stairs, not wanting to get surprised by anything if you can help it. The stairwell itself is dark, the emergency lighting here beginning to wane. Using your flashlight, you make sure nothing is lurking under the steps and then head up.
+
+
+The stairs climb at least sixty feet to a landing at the top. Light shines into the area at the top of the stairs through a small window in a closed steel door – the only access to the stairwell. You move to the door and see that it is a security door, locked from the other side with a pushpin key lock. You can open it freely from here on the inside, but you’ll need the four pin key-code to open it again from the outside should you leave (unless you prop it open or the like).
+
+
+Looking through the window, you see a long corridor on the other side, lit by emergency lighting. A number of office doors, some open and some closed, line each side – while what’s left of two mangled corpses litter the hallway in a splattering of gore. As you look, you see a zombie stumble out of one of the office doors to wander aimlessly down the hall away from you.";"116221115411421141";"Wait for the zombie to leave and then go into the corridor to search the area (propping the door open)";"oui";0
+"51";"11622111541142114";"Ready";"Taking a look around, you find some items of potential use. The first thing is a working deep sink along one wall. You know that the water in the lines can become contaminated in a citywide disaster, but you figure the water this far down is probably still safe. You take the risk and gulp down the rusty tasting water until you’re filled. Then after splashing some on your face to wake yourself up more fully, you find a hundred foot coil of three-quarter inch hemp rope on a pile of old tarps.
+
+
+The rope is a little heavy, but you find that you can easily carry the coil across your shoulder and decide that it will be worth having. Most of the tarps are too big and brittle from age to be of use, but you do find a smaller, eight by ten foot, plastic tarp under the pile in good condition and are able to fold it up small enough to take with you. You also find a relatively clean section of canvas tarp and tear some strips out of it to use as bandages for your wounds. You consider cleaning your head wound in the sink, but figure the dried mat of blood is probably the only thing keeping you from bleeding to death and decide to leave it alone, except to wrap it a little more with a strip of canvas.
+
+
+Finally, you discover an old vintage Pepsi machine in the corner. It looks like something out of the seventies and has no soda in it, but you do find three empty Pepsi bottles on the floor nearby – the old kind with extra thick glass. Taking the bottles, you fill them with water and cork them with balled up strips of tarping.
+
+
+Looking at the heavy fire extinguisher on the wall (and all the rest of the gear you want to carry), you decide that it really isn’t worth lugging and leave it.
+
+
+Checking the barred doors again, you no longer hear any zombies trying to claw their way in and give a sigh of relief – they must have forgotten what they were after and wandered away.
+
+
+Gathering your gear, you ready your weapon and head cautiously up the stairs, not wanting to get surprised by anything if you can help it. The stairwell itself is dark, the emergency lighting here beginning to wane. Using your flashlight, you make sure nothing is lurking under the steps and then head up.
+
+
+The stairs climb at least sixty feet to a landing at the top. Light shines into the area at the top of the stairs through a small window in a closed steel door – the only access to the stairwell. You move to the door and see that it is a security door, locked from the other side with a pushpin key lock. You can open it freely from here on the inside, but you’ll need the four pin key-code to open it again from the outside should you leave (unless you prop it open or the like).
+
+
+Looking through the window, you see a long corridor on the other side, lit by emergency lighting. A number of office doors, some open and some closed, line each side – while what’s left of two mangled corpses litter the hallway in a splattering of gore. As you look, you see a zombie stumble out of one of the office doors to wander aimlessly down the hall away from you.";"116221115411421142";"Wait for the zombie to leave and then open the door to figure out the lock first, so you can close it behind you when you leave and still have access";"oui";0
+"52";"11622111541142114";"Ready";"Taking a look around, you find some items of potential use. The first thing is a working deep sink along one wall. You know that the water in the lines can become contaminated in a citywide disaster, but you figure the water this far down is probably still safe. You take the risk and gulp down the rusty tasting water until you’re filled. Then after splashing some on your face to wake yourself up more fully, you find a hundred foot coil of three-quarter inch hemp rope on a pile of old tarps.
+
+
+The rope is a little heavy, but you find that you can easily carry the coil across your shoulder and decide that it will be worth having. Most of the tarps are too big and brittle from age to be of use, but you do find a smaller, eight by ten foot, plastic tarp under the pile in good condition and are able to fold it up small enough to take with you. You also find a relatively clean section of canvas tarp and tear some strips out of it to use as bandages for your wounds. You consider cleaning your head wound in the sink, but figure the dried mat of blood is probably the only thing keeping you from bleeding to death and decide to leave it alone, except to wrap it a little more with a strip of canvas.
+
+
+Finally, you discover an old vintage Pepsi machine in the corner. It looks like something out of the seventies and has no soda in it, but you do find three empty Pepsi bottles on the floor nearby – the old kind with extra thick glass. Taking the bottles, you fill them with water and cork them with balled up strips of tarping.
+
+
+Looking at the heavy fire extinguisher on the wall (and all the rest of the gear you want to carry), you decide that it really isn’t worth lugging and leave it.
+
+
+Checking the barred doors again, you no longer hear any zombies trying to claw their way in and give a sigh of relief – they must have forgotten what they were after and wandered away.
+
+
+Gathering your gear, you ready your weapon and head cautiously up the stairs, not wanting to get surprised by anything if you can help it. The stairwell itself is dark, the emergency lighting here beginning to wane. Using your flashlight, you make sure nothing is lurking under the steps and then head up.
+
+
+The stairs climb at least sixty feet to a landing at the top. Light shines into the area at the top of the stairs through a small window in a closed steel door – the only access to the stairwell. You move to the door and see that it is a security door, locked from the other side with a pushpin key lock. You can open it freely from here on the inside, but you’ll need the four pin key-code to open it again from the outside should you leave (unless you prop it open or the like).
+
+
+Looking through the window, you see a long corridor on the other side, lit by emergency lighting. A number of office doors, some open and some closed, line each side – while what’s left of two mangled corpses litter the hallway in a splattering of gore. As you look, you see a zombie stumble out of one of the office doors to wander aimlessly down the hall away from you.";"116221115411421143";"Wait for the zombie to leave and then just exit and close the door behind you";"non";0
+"53";"116221115411421143";"Corridor";"The corridor, leading away from the secured stairwell, is lined with a number of offices used by the transit authority. You briefly look through each of them as you head down the corridor, but find nothing of particular use and no other exits. Seeing some of the desks with photos of the owners’ loved ones on them reminds you of your own desk at work. You had a picture of your wife and kids on it. God; you hope they are all still alive. Too bad for the folks in these offices you think to yourself; you doubt any of them made it out of here, before being mauled to death by the zombies – or worse, becoming one of them.
+
+
+At the end of the office corridor is a short hallway going left and right. To your right, the hallway goes about fifteen feet and ends at another push-pin security door. This one however, is broken open, hanging off the bottom hinge, and bent outward slightly.
+
+
+To your left the hallway goes another fifteen feet, to a set of private restrooms (men and women’s) at the far end.";"1162211154114211431";"Check out the broken security door";"oui";0
+"54";"116221115411421143";"Corridor";"The corridor, leading away from the secured stairwell, is lined with a number of offices used by the transit authority. You briefly look through each of them as you head down the corridor, but find nothing of particular use and no other exits. Seeing some of the desks with photos of the owners’ loved ones on them reminds you of your own desk at work. You had a picture of your wife and kids on it. God; you hope they are all still alive. Too bad for the folks in these offices you think to yourself; you doubt any of them made it out of here, before being mauled to death by the zombies – or worse, becoming one of them.
+
+
+At the end of the office corridor is a short hallway going left and right. To your right, the hallway goes about fifteen feet and ends at another push-pin security door. This one however, is broken open, hanging off the bottom hinge, and bent outward slightly.
+
+
+To your left the hallway goes another fifteen feet, to a set of private restrooms (men and women’s) at the far end.";"1162211154114211432";"Check out the restrooms at the other end of the hallway";"non";0
+"55";"1162211154114211432";"Hysterical";"You move to the end of the hallway and try one of the restroom doors, but it is locked. Trying the other, it opens into a small private bathroom – nothing out of the ordinary and no other exits.
+
+
+You ponder why the other door is locked and wonder if someone is in there.
+
+
+Keeping your voice down and knocking lightly on the other restroom door, you whisper – “Hello; is someone in there?”
+
+
+You listen at the door and can hear a frantic whimpering from inside.
+
+
+“Hey; I’m not a zombie. If we work together, maybe we can get out of here,” you try to reassure her.
+
+
+Then from inside the restroom, you hear a woman’s hysterical plea: “Oh god help me! Please help me! Help me! Help me!” she screams.
+
+
+You are taken aback at all the noise the hysterical woman is making – it’s going to attract zombies for sure. “My god woman; shut your mouth!” you hiss.
+
+
+The door to the restroom then opens and you see a disheveled-looking secretary inside on her hands and knees, bawling her eyes out. She is obviously in shock and completely panic-stricken. She grabs your hand, as if you had some power to magically carry her out of this nightmare, and continues to shriek for help.
+
+
+You then hear a sudden cacophony of howling wails and agitated moans echoing in from the area beyond the broken security door at the other end of the short hallway. There must be a large tunnel or the like on the other side of the door – and from the sound of it, also filled with hundreds of flesh-starved zombies. Zombies that are now heading for the sound of this woman’s screams; heading towards you. Shit; this is bad!
+
+
+You pull your hand free of the woman and try to decide what to do. If you don’t act fast, you’ll get overrun by the zombies when they start pouring into the area through the broken security door at the end of the hallway.
+
+
+“No! Don’t leave me! Don’t leave me!” the woman shrieks hysterically, wrapping her arms around one of your legs and bawling. She’s going to get you killed.";"11622111541142114321";"Try to drag her back to the secured stairwell with you";"oui";0
+"56";"1162211154114211432";"Hysterical";"You move to the end of the hallway and try one of the restroom doors, but it is locked. Trying the other, it opens into a small private bathroom – nothing out of the ordinary and no other exits.
+
+
+You ponder why the other door is locked and wonder if someone is in there.
+
+
+Keeping your voice down and knocking lightly on the other restroom door, you whisper – “Hello; is someone in there?”
+
+
+You listen at the door and can hear a frantic whimpering from inside.
+
+
+“Hey; I’m not a zombie. If we work together, maybe we can get out of here,” you try to reassure her.
+
+
+Then from inside the restroom, you hear a woman’s hysterical plea: “Oh god help me! Please help me! Help me! Help me!” she screams.
+
+
+You are taken aback at all the noise the hysterical woman is making – it’s going to attract zombies for sure. “My god woman; shut your mouth!” you hiss.
+
+
+The door to the restroom then opens and you see a disheveled-looking secretary inside on her hands and knees, bawling her eyes out. She is obviously in shock and completely panic-stricken. She grabs your hand, as if you had some power to magically carry her out of this nightmare, and continues to shriek for help.
+
+
+You then hear a sudden cacophony of howling wails and agitated moans echoing in from the area beyond the broken security door at the other end of the short hallway. There must be a large tunnel or the like on the other side of the door – and from the sound of it, also filled with hundreds of flesh-starved zombies. Zombies that are now heading for the sound of this woman’s screams; heading towards you. Shit; this is bad!
+
+
+You pull your hand free of the woman and try to decide what to do. If you don’t act fast, you’ll get overrun by the zombies when they start pouring into the area through the broken security door at the end of the hallway.
+
+
+“No! Don’t leave me! Don’t leave me!” the woman shrieks hysterically, wrapping her arms around one of your legs and bawling. She’s going to get you killed.";"11622111541142114322";"Try to yank yourself free and run for the secured stairwell (leaving her to her own fate)";"oui";0
+"57";"1162211154114211432";"Hysterical";"You move to the end of the hallway and try one of the restroom doors, but it is locked. Trying the other, it opens into a small private bathroom – nothing out of the ordinary and no other exits.
+
+
+You ponder why the other door is locked and wonder if someone is in there.
+
+
+Keeping your voice down and knocking lightly on the other restroom door, you whisper – “Hello; is someone in there?”
+
+
+You listen at the door and can hear a frantic whimpering from inside.
+
+
+“Hey; I’m not a zombie. If we work together, maybe we can get out of here,” you try to reassure her.
+
+
+Then from inside the restroom, you hear a woman’s hysterical plea: “Oh god help me! Please help me! Help me! Help me!” she screams.
+
+
+You are taken aback at all the noise the hysterical woman is making – it’s going to attract zombies for sure. “My god woman; shut your mouth!” you hiss.
+
+
+The door to the restroom then opens and you see a disheveled-looking secretary inside on her hands and knees, bawling her eyes out. She is obviously in shock and completely panic-stricken. She grabs your hand, as if you had some power to magically carry her out of this nightmare, and continues to shriek for help.
+
+
+You then hear a sudden cacophony of howling wails and agitated moans echoing in from the area beyond the broken security door at the other end of the short hallway. There must be a large tunnel or the like on the other side of the door – and from the sound of it, also filled with hundreds of flesh-starved zombies. Zombies that are now heading for the sound of this woman’s screams; heading towards you. Shit; this is bad!
+
+
+You pull your hand free of the woman and try to decide what to do. If you don’t act fast, you’ll get overrun by the zombies when they start pouring into the area through the broken security door at the end of the hallway.
+
+
+“No! Don’t leave me! Don’t leave me!” the woman shrieks hysterically, wrapping her arms around one of your legs and bawling. She’s going to get you killed.";"11622111541142114323";"Club the woman in the head with your crowbar (killing her) and run for the secured stairwell";"non";0
+"58";"11622111541142114323";"Mercy Kill";"You’ll never make it back to the secured stairwell in time trying to drag this hysterical woman with you. Sadly, you realize that the woman is beyond your capacity to help – and if she doesn’t let go now, you’re both going to die. Even if you leave her behind, she’s going to be torn to shreds by the zombies. You decide to spare her this fate; and slam her in the head with your crowbar, turning your face to avoid the spray of her blood. She slumps to the floor and you feel a knot in your chest – it’s as if a piece of your humanity just died with her.
+
+
+You step out of her limp grasp and hear the horde of zombies drawing very close – they are just outside the hallway.
+
+
+Running back up the long office corridor, you just arrive at the security door, when the howling mob of ravening undead clamber into the area. At first, they see the dead woman you left behind near the private restrooms. Since she’s still fresh, the zombies swarm over her and begin to tear her apart messily.
+
+
+With more and more zombies pouring into the short hallway after them, you know it’s only a matter of moments before they flow into the office corridor and spot you.";"116221115411421143231";"Better hurry";"non";0
+"59";"116221115411421143231";"Locked";"You rush to the security door, checking out the pushpin key lock and wishing you had done this before – or at least propped the damn door open. Looking, you see that it has nine pins (zero through nine) and a turning knob. Having worked with these before, in some of the secured areas of the Summit Tower, you know that you punch in a four digit combination and then turn the knob to open the door.
+
+
+Quickly examining the pushpins themselves, you note that the ‘1’, ‘2’, and ‘9’ pins seem a bit more worn than the rest; and that the ‘9’ pin looks the most worn of all. If the wear indicates the pins used in the combination, then you’re looking at a combination using a ‘1’, ‘2’, and two ‘9’s. Being an accountant, you quickly do the math in your head – leaving you with only twelve combinations.
+
+
+You try:";"1162211154114211432311";"1299";"oui";0
+"60";"116221115411421143231";"Locked";"You rush to the security door, checking out the pushpin key lock and wishing you had done this before – or at least propped the damn door open. Looking, you see that it has nine pins (zero through nine) and a turning knob. Having worked with these before, in some of the secured areas of the Summit Tower, you know that you punch in a four digit combination and then turn the knob to open the door.
+
+
+Quickly examining the pushpins themselves, you note that the ‘1’, ‘2’, and ‘9’ pins seem a bit more worn than the rest; and that the ‘9’ pin looks the most worn of all. If the wear indicates the pins used in the combination, then you’re looking at a combination using a ‘1’, ‘2’, and two ‘9’s. Being an accountant, you quickly do the math in your head – leaving you with only twelve combinations.
+
+
+You try:";"1162211154114211432312";"1929";"oui";0
+"61";"116221115411421143231";"Locked";"You rush to the security door, checking out the pushpin key lock and wishing you had done this before – or at least propped the damn door open. Looking, you see that it has nine pins (zero through nine) and a turning knob. Having worked with these before, in some of the secured areas of the Summit Tower, you know that you punch in a four digit combination and then turn the knob to open the door.
+
+
+Quickly examining the pushpins themselves, you note that the ‘1’, ‘2’, and ‘9’ pins seem a bit more worn than the rest; and that the ‘9’ pin looks the most worn of all. If the wear indicates the pins used in the combination, then you’re looking at a combination using a ‘1’, ‘2’, and two ‘9’s. Being an accountant, you quickly do the math in your head – leaving you with only twelve combinations.
+
+
+You try:";"1162211154114211432313";"1992";"oui";0
+"62";"116221115411421143231";"Locked";"You rush to the security door, checking out the pushpin key lock and wishing you had done this before – or at least propped the damn door open. Looking, you see that it has nine pins (zero through nine) and a turning knob. Having worked with these before, in some of the secured areas of the Summit Tower, you know that you punch in a four digit combination and then turn the knob to open the door.
+
+
+Quickly examining the pushpins themselves, you note that the ‘1’, ‘2’, and ‘9’ pins seem a bit more worn than the rest; and that the ‘9’ pin looks the most worn of all. If the wear indicates the pins used in the combination, then you’re looking at a combination using a ‘1’, ‘2’, and two ‘9’s. Being an accountant, you quickly do the math in your head – leaving you with only twelve combinations.
+
+
+You try:";"1162211154114211432314";"2199";"oui";0
+"63";"116221115411421143231";"Locked";"You rush to the security door, checking out the pushpin key lock and wishing you had done this before – or at least propped the damn door open. Looking, you see that it has nine pins (zero through nine) and a turning knob. Having worked with these before, in some of the secured areas of the Summit Tower, you know that you punch in a four digit combination and then turn the knob to open the door.
+
+
+Quickly examining the pushpins themselves, you note that the ‘1’, ‘2’, and ‘9’ pins seem a bit more worn than the rest; and that the ‘9’ pin looks the most worn of all. If the wear indicates the pins used in the combination, then you’re looking at a combination using a ‘1’, ‘2’, and two ‘9’s. Being an accountant, you quickly do the math in your head – leaving you with only twelve combinations.
+
+
+You try:";"1162211154114211432315";"2919";"oui";0
+"64";"116221115411421143231";"Locked";"You rush to the security door, checking out the pushpin key lock and wishing you had done this before – or at least propped the damn door open. Looking, you see that it has nine pins (zero through nine) and a turning knob. Having worked with these before, in some of the secured areas of the Summit Tower, you know that you punch in a four digit combination and then turn the knob to open the door.
+
+
+Quickly examining the pushpins themselves, you note that the ‘1’, ‘2’, and ‘9’ pins seem a bit more worn than the rest; and that the ‘9’ pin looks the most worn of all. If the wear indicates the pins used in the combination, then you’re looking at a combination using a ‘1’, ‘2’, and two ‘9’s. Being an accountant, you quickly do the math in your head – leaving you with only twelve combinations.
+
+
+You try:";"1162211154114211432316";"2991";"oui";0
+"65";"116221115411421143231";"Locked";"You rush to the security door, checking out the pushpin key lock and wishing you had done this before – or at least propped the damn door open. Looking, you see that it has nine pins (zero through nine) and a turning knob. Having worked with these before, in some of the secured areas of the Summit Tower, you know that you punch in a four digit combination and then turn the knob to open the door.
+
+
+Quickly examining the pushpins themselves, you note that the ‘1’, ‘2’, and ‘9’ pins seem a bit more worn than the rest; and that the ‘9’ pin looks the most worn of all. If the wear indicates the pins used in the combination, then you’re looking at a combination using a ‘1’, ‘2’, and two ‘9’s. Being an accountant, you quickly do the math in your head – leaving you with only twelve combinations.
+
+
+You try:";"1162211154114211432317";"9129";"oui";0
+"66";"116221115411421143231";"Locked";"You rush to the security door, checking out the pushpin key lock and wishing you had done this before – or at least propped the damn door open. Looking, you see that it has nine pins (zero through nine) and a turning knob. Having worked with these before, in some of the secured areas of the Summit Tower, you know that you punch in a four digit combination and then turn the knob to open the door.
+
+
+Quickly examining the pushpins themselves, you note that the ‘1’, ‘2’, and ‘9’ pins seem a bit more worn than the rest; and that the ‘9’ pin looks the most worn of all. If the wear indicates the pins used in the combination, then you’re looking at a combination using a ‘1’, ‘2’, and two ‘9’s. Being an accountant, you quickly do the math in your head – leaving you with only twelve combinations.
+
+
+You try:";"1162211154114211432318";"9192";"oui";0
+"67";"116221115411421143231";"Locked";"You rush to the security door, checking out the pushpin key lock and wishing you had done this before – or at least propped the damn door open. Looking, you see that it has nine pins (zero through nine) and a turning knob. Having worked with these before, in some of the secured areas of the Summit Tower, you know that you punch in a four digit combination and then turn the knob to open the door.
+
+
+Quickly examining the pushpins themselves, you note that the ‘1’, ‘2’, and ‘9’ pins seem a bit more worn than the rest; and that the ‘9’ pin looks the most worn of all. If the wear indicates the pins used in the combination, then you’re looking at a combination using a ‘1’, ‘2’, and two ‘9’s. Being an accountant, you quickly do the math in your head – leaving you with only twelve combinations.
+
+
+You try:";"1162211154114211432319";"9219";"oui";0
+"68";"116221115411421143231";"Locked";"You rush to the security door, checking out the pushpin key lock and wishing you had done this before – or at least propped the damn door open. Looking, you see that it has nine pins (zero through nine) and a turning knob. Having worked with these before, in some of the secured areas of the Summit Tower, you know that you punch in a four digit combination and then turn the knob to open the door.
+
+
+Quickly examining the pushpins themselves, you note that the ‘1’, ‘2’, and ‘9’ pins seem a bit more worn than the rest; and that the ‘9’ pin looks the most worn of all. If the wear indicates the pins used in the combination, then you’re looking at a combination using a ‘1’, ‘2’, and two ‘9’s. Being an accountant, you quickly do the math in your head – leaving you with only twelve combinations.
+
+
+You try:";"11622111541142114323110";"9291";"oui";0
+"69";"116221115411421143231";"Locked";"You rush to the security door, checking out the pushpin key lock and wishing you had done this before – or at least propped the damn door open. Looking, you see that it has nine pins (zero through nine) and a turning knob. Having worked with these before, in some of the secured areas of the Summit Tower, you know that you punch in a four digit combination and then turn the knob to open the door.
+
+
+Quickly examining the pushpins themselves, you note that the ‘1’, ‘2’, and ‘9’ pins seem a bit more worn than the rest; and that the ‘9’ pin looks the most worn of all. If the wear indicates the pins used in the combination, then you’re looking at a combination using a ‘1’, ‘2’, and two ‘9’s. Being an accountant, you quickly do the math in your head – leaving you with only twelve combinations.
+
+
+You try:";"11622111541142114323111";"9912";"oui";0
+"70";"116221115411421143231";"Locked";"You rush to the security door, checking out the pushpin key lock and wishing you had done this before – or at least propped the damn door open. Looking, you see that it has nine pins (zero through nine) and a turning knob. Having worked with these before, in some of the secured areas of the Summit Tower, you know that you punch in a four digit combination and then turn the knob to open the door.
+
+
+Quickly examining the pushpins themselves, you note that the ‘1’, ‘2’, and ‘9’ pins seem a bit more worn than the rest; and that the ‘9’ pin looks the most worn of all. If the wear indicates the pins used in the combination, then you’re looking at a combination using a ‘1’, ‘2’, and two ‘9’s. Being an accountant, you quickly do the math in your head – leaving you with only twelve combinations.
+
+
+You try:";"11622111541142114323112";"9921";"non";0
+"71";"11622111541142114323112";"Not It";"Not the right combination. You’d better hurry; time is running out!
+
+
+You try:";"116221115411421143231121";"1299";"oui";1
+"72";"11622111541142114323112";"Not It";"Not the right combination. You’d better hurry; time is running out!
+
+
+You try:";"116221115411421143231122";"1929";"oui";1
+"73";"11622111541142114323112";"Not It";"Not the right combination. You’d better hurry; time is running out!
+
+
+You try:";"116221115411421143231123";"1992";"oui";1
+"74";"11622111541142114323112";"Not It";"Not the right combination. You’d better hurry; time is running out!
+
+
+You try:";"116221115411421143231124";"2919";"oui";1
+"75";"11622111541142114323112";"Not It";"Not the right combination. You’d better hurry; time is running out!
+
+
+You try:";"116221115411421143231125";"2991";"oui";1
+"76";"11622111541142114323112";"Not It";"Not the right combination. You’d better hurry; time is running out!
+
+
+You try:";"116221115411421143231126";"9129";"oui";1
+"77";"11622111541142114323112";"Not It";"Not the right combination. You’d better hurry; time is running out!
+
+
+You try:";"116221115411421143231127";"9192";"oui";1
+"78";"11622111541142114323112";"Not It";"Not the right combination. You’d better hurry; time is running out!
+
+
+You try:";"116221115411421143231128";"9219";"oui";1
+"79";"11622111541142114323112";"Not It";"Not the right combination. You’d better hurry; time is running out!
+
+
+You try:";"116221115411421143231129";"9291";"oui";1
+"80";"11622111541142114323112";"Not It";"Not the right combination. You’d better hurry; time is running out!
+
+
+You try:";"1162211154114211432311210";"9912";"oui";1
+"81";"11622111541142114323112";"Not It";"Not the right combination. You’d better hurry; time is running out!
+
+
+You try:";"1162211154114211432311211";"9921";"non";1
