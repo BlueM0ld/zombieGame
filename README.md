@@ -34,7 +34,7 @@ These are the dependencies you might need to run in order to run the application
 ## Run 
 After the nltk packages have been downloaded run the application on cmd by typing *start.py*  You should be in the directory of this file
 
-To play the game wait for the prompt "you: " to show up after pressing E to enter the game
+To play the game wait for the prompt "you: " to show up after pressing E to enter the game.
 You can write in anything in the prompt :D
 
-However "check inventory" and "surrender" are key prompts  
+However "check inventory" and "surrender" are key prompts!
